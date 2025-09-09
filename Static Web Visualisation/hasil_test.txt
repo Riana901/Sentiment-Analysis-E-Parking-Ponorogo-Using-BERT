@@ -1,0 +1,4 @@
+[INFO] Total waktu eksekusi: 120.06 detik
+[INFO] Browser ditutup, pengujian selesai.
+[INFO] Total waktu eksekusi: 2.87 detik
+[INFO] Browser ditutup, pengujian selesai.
