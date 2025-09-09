@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Klasifikasi BERT
+{% endblock %}
+
+{% block content %}
+<h1 class="my-4">KLASIFIKASI TEKS MODEL BERT</h1>
+
+<form method="POST" class="classification-form">
+    <label for="input_text">Masukkan teks:</label>
+    <input type="text" id="input_text" name="input_text" required>
+    <button type="submit" class="btn-submit">Klasifikasi</button>
+</form>
+
+{% if sentiment %}
+<div class="mt-4 result-container">
+    <h3>Input Text:</h3>
+    <p>{{ input_text }}</p>
+
+    <h3>Sentimen:</h3>
+    <p><strong>{{ sentiment }}</strong></p>
+</div>
+{% endif %}
+
+<div class="mt-4">
+    <h3>Data Prediksi</h3>
+    {{ tables | safe }}
+</div>
+{% endblock %}

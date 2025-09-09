@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Sentiment Analysis{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <img src="{{ url_for('static', filename='images/logo.webp') }}" alt="Logo" class="logo">
+            <h3>SKRIPSI</h3>
+            <h2>Analisis Sentimen</h2>
+            <ul>
+                <li><a href="{{ url_for('dashboard') }}"> Dashboard</a></li>
+                <li><a href="{{ url_for('data_train_page') }}">Data Train</a></li>
+                <li><a href="{{ url_for('data_test_page') }}">Data Test</a></li>
+                <li><a href="{{ url_for('klasifikasi_bert_page') }}">Klasifikasi BERT</a></li>
+                <li><a href="{{ url_for('visualisasi_page') }}">Visualisasi</a></li>
+            </ul>
+        </div>
+        <div class="main-content">
+            {% block content %}{% endblock %}
+        </div>
+    </div>
+</body>
+</html>

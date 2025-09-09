@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>VISUALISASI HASIL</h1>
+<div class="confusion-matrix-section">
+    <!-- Confusion Matrix Image -->
+    <div class="confusion-matrix">
+        <h3>Confusion Matrix</h3>
+        <img src="{{ url_for('static', filename='images/image.png') }}" alt="Confusion Matrix">
+    </div>
+
+    <!-- Model Accuracy Circle -->
+    <div class="accuracy-circle">
+        <div class="circle">
+            <span>{{ accuracy }}%</span>
+        </div>
+        <p>Model Accuracy</p>
+    </div>
+</div>
+
+
+<!-- Wrapper for grid layout -->
+<h3>Sentimen Total</h3>
+<div class="grid-container">
+
+    <!-- Confusion Matrix Section -->
+    <div class="grid-item">
+        <h3>Distribusi Sentimen</h3>
+        <img src="{{ url_for('static', filename='images/sentimenbaru.png') }}" alt="Sentimen Total">
+    </div>
+
+    <!-- Distribusi Gender -->
+    <div class="grid-item">
+        <h3>Distribusi Gender</h3>
+        <img src="{{ url_for('static', filename='images/genderbaru.png') }}" alt="Distribusi Gender">
+    </div>
+
+    <!-- Heatmap -->
+    <div class="grid-item">
+        <h3>Distribusi Sentimen Berdasarkan Gender</h3>
+        <img src="{{ url_for('static', filename='images/heatmapbaru.png') }}" alt="Heatmap">
+    </div>
+
+</div>
+
+<!-- WORDCLOUD SECTION -->
+<h2>WORDCLOUD</h2>
+<div class="grid-container">
+
+    <div class="grid-item">
+        <h3>Sentimen Positif</h3>
+        <img src="{{ url_for('static', filename='images/positif.png') }}" alt="Sentimen Positif">
+    </div>
+    <div class="grid-item">
+        <h3>Sentimen Netral</h3>
+        <img src="{{ url_for('static', filename='images/netral.png') }}" alt="Sentimen Netral">
+    </div>
+    <div class="grid-item">
+        <h3>Sentimen Negatif</h3>
+        <img src="{{ url_for('static', filename='images/negatif.png') }}" alt="Sentimen Negatif">
+    </div>
+
+</div>
+
+{% endblock %}

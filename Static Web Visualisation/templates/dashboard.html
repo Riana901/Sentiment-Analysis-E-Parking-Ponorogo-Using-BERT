@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<h1>DASHBOARD</h1>
+<div class="stats">
+    <div class="stat-item">TOTAL DATA<br>527</div>
+    <div class="stat-item">DATA TRAIN<br>420</div>
+    <div class="stat-item">DATA TEST<br>104</div>
+</div>
+<div class="dataset">
+
+    {{ tables | safe }}
+</div>
+{% endblock %}
