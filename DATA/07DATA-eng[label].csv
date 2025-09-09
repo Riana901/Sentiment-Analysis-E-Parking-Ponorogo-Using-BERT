@@ -1,0 +1,528 @@
+no,author,comment,apiVersion,script,id,name,likelyGender,genderScale,score,probabilityCalibrated,Sentiment_Score,Label
+1,riyanatkinson,Jakarta parking using e money flash brizzi toll entry card,namsor_api_2.0.30,LATIN,e47edeb6-12ef-4672-86a2-3b5bd793a521,riyanatkinson,male,-0.354070652,3.128929976,0.677035326,-2,Negative
+2,aeldy rn,pay gopay with shopeepay funds,namsor_api_2.0.30,LATIN,9636a1b4-ee98-4432-a1d7-acbb9ceb2d36,aeldy rn,female,0.066887851,0.775960443,0.533443926,2,Positive
+3,tatan t,Easiest payment using QRIS,namsor_api_2.0.30,LATIN,e9f99de2-864a-428d-9f20-27edc0812443,tatan t,male,-0.512525378,6.122137545,0.756262689,0,Neutral
+4,bandar absyar,Bismillah you can,namsor_api_2.0.30,LATIN,5a177f21-f048-4be4-b657-db5bcde50dfa,bandar absyar,male,-0.78835731,8.080019623,0.894178655,4,Positive
+5,betina  gemoy,hope motorbike parking Ponorogo East Java 1000km,namsor_api_2.0.30,LATIN,1c1a3eaf-7225-4928-9026-30d7ec02a1f4,betina  gemoy,female,0.716830715,7.413760549,0.858415358,2,Positive
+6,dhikakwardani,"love, sometimes the plan is to give 2 thousand and give it back hehehehe",namsor_api_2.0.30,LATIN,042f9521-0047-43c9-9807-c3e28b9e2238,dhikakwardani,male,-0.070558383,0.956339702,0.535279192,9,Positive
+7,frida jemprit,sometimes spending 5 10 thousand,namsor_api_2.0.30,LATIN,8b88574f-1ce3-4f9d-92cd-4a0eee4a8d09,frida jemprit,female,0.487838281,5.950353019,0.74391914,2,Positive
+8,shellasritrisniawati,pay cash,namsor_api_2.0.30,LATIN,e62f77e7-3351-4af1-a98f-6b8bca07dbee,shellasritrisniawati,male,-0.058265403,0.391030697,0.529132701,0,Neutral
+9,yanyunayamponorogo,nice ponorogo,namsor_api_2.0.30,LATIN,1c04b79a-5265-4956-9d20-2546c2b1e339,yanyunayamponorogo,male,-0.329225254,2.781785763,0.664612627,-2,Negative
+10,mbak hess,right,namsor_api_2.0.30,LATIN,2007dac6-f9b8-48e6-8059-65c5fe8a7b22,mbak hess,female,0.04997057,0.046436057,0.524985285,2,Positive
+11,mbak hess,help,namsor_api_2.0.30,LATIN,447feddc-d2e2-4285-bf01-2202fadb5bb0,mbak hess,female,0.04997057,0.046436057,0.524985285,0,Neutral
+12,adhisthanadwijaaji,the parking is neat,namsor_api_2.0.30,LATIN,23f24f5a-39f2-4666-a68f-62c79aa4f028,adhisthanadwijaaji,male,-0.132805263,1.356804435,0.566402632,1,Positive
+13,gustavianooo,oh the budget is useful,namsor_api_2.0.30,LATIN,3f577212-bf8a-426f-a4fd-3e17f87a0e56,gustavianooo,male,-0.381472308,4.375463172,0.690736154,5,Positive
+14,itsmeolv ,parked a motorbike for 2k,namsor_api_2.0.30,LATIN,68d5f54d-05f9-4359-9301-b87035fa7091,itsmeolv ,male,-0.28538144,2.383392836,0.64269072,1,Positive
+15,tamanbanyukencanawatublencong,Purwokerto Banyumas motorbike parking 1000,namsor_api_2.0.30,LATIN,f411176d-bfbb-4e6e-b136-3603ee5c2955,tamanbanyukencanawatublencong,male,-0.226980222,1.77334609,0.613490111,1,Positive
+16,syahjulian ,the best human resources,namsor_api_2.0.30,LATIN,159f550f-49f5-4378-aa77-24854525574b,syahjulian ,male,-0.14673351,1.409635189,0.573366755,8,Positive
+18,he rmawanandre,responsibility point 3 dare to take responsibility for reasonable taxes,namsor_api_2.0.30,LATIN,69fba8d4-2997-4324-bf2d-8c48d4f3c4f2,he rmawanandre,male,-0.302863916,2.526399148,0.651431958,-6,Negative
+19,richardimm ,try 10 human resources,namsor_api_2.0.30,LATIN,17959ec1-e8fc-4e4e-9493-6ee73b8dba36,richardimm ,male,-0.172776153,1.513252043,0.586388076,4,Positive
+20,ndy miella ,love the concept of slowly digital ponorogo,namsor_api_2.0.30,LATIN,58c02473-bdec-49fd-899c-500fd75113f8,ndy miella ,female,0.311947975,2.60817898,0.655973987,2,Positive
+21,gustavianooo,make fun of,namsor_api_2.0.30,LATIN,87bdd0c9-238f-4a15-8c2c-e4ddef0e5468,gustavianooo,male,-0.381472308,4.375463172,0.690736154,-4,Negative
+22,gustavianooo,chuaks,namsor_api_2.0.30,LATIN,470c3191-3190-4a2a-a1f7-868649fec130,gustavianooo,male,-0.381472308,4.375463172,0.690736154,0,Neutral
+23,vxniiiaa,I'm sorry the jukir understands,namsor_api_2.0.30,LATIN,5019173c-14fd-45b5-9d55-12033c07c81a,vxniiiaa,female,0.066964923,0.779618656,0.533482462,1,Positive
+24,ayupesek  ,"It's good that it's detrimental to the public, the road tariffs are the regulations for parking motorbikes",namsor_api_2.0.30,LATIN,c0e611c4-a1f6-4aad-a7ce-1d107cb7c9f3,ayupesek  ,male,-0.35494172,3.144407821,0.67747086,2,Positive
+25,angga rmx  ,parked a motorbike for 2k,namsor_api_2.0.30,LATIN,c3d42592-87a4-4621-bc14-c1f8bf258b66,angga rmx  ,male,-0.363757761,3.314894769,0.681878881,1,Positive
+26,ricki re,pay 1000 parking 2000,namsor_api_2.0.30,LATIN,5a12c91b-6307-4275-988a-d57aafeb073a,ricki re,female,0.361054223,3.259699994,0.680527112,-1,Negative
+27,zuaruddin,invited to go forward e parking functions comments like,namsor_api_2.0.30,LATIN,5d10a4bc-5c34-40ff-af71-5666affa1014,zuaruddin,male,-0.260366859,2.116762379,0.63018343,1,Positive
+28,ricardo kneff,"It's really good, bro, to know about Ponorogo, Qris' breakthrough",namsor_api_2.0.30,LATIN,ad0444b9-a9ca-41ca-ab69-10728e9ea162,ricardo kneff,male,-0.805942792,8.309316538,0.902971396,-5,Negative
+29,gustavianooo,"it's easy, a thousand straight away",namsor_api_2.0.30,LATIN,b73d6a48-ccb9-4b50-83a0-0412952549ee,gustavianooo,male,-0.381472308,4.375463172,0.690736154,6,Positive
+30,wildanhikmawan ,based on the decision of the governor of East Java number 188889kpts0132022 minimum wage for districts of East Java city 2023 minimum wage for Ponorogo district 2023 rp214970945 payment sg decent cost of living facilities community income ben iso increased solution sg comments 10 agree inarat ne blind map,namsor_api_2.0.30,LATIN,75fbd90d-6bd4-4f4b-a163-7e8a6a5cbaec,wildanhikmawan ,male,-0.372161057,3.537772533,0.686080529,-5,Negative
+31,wildanhikmawan ,agree,namsor_api_2.0.30,LATIN,649574f5-0895-4c23-baec-2ef1de7d1149,wildanhikmawan ,male,-0.372161057,3.537772533,0.686080529,1,Positive
+32,inutee fey,agree min poll ben the parking attendant is not reluctant to work paying 2000 the fact the vehicle is not secured paying for parking is annoying,namsor_api_2.0.30,LATIN,bb326443-aabd-48aa-98ce-312cc8863804,inutee fey,female,0.062857561,0.590788585,0.53142878,-13,Negative
+33,dhikakwardani,agree,namsor_api_2.0.30,LATIN,4f7aebfe-e23d-494b-89c4-b8cc5b418c96,dhikakwardani,male,-0.070558383,0.956339702,0.535279192,1,Positive
+34,denyamalia,"It's good, min, the price is a thousand pouting lips",namsor_api_2.0.30,LATIN,b0b0d82b-6169-4540-a5ff-42721f398177,denyamalia,female,0.160691059,1.46433474,0.58034553,-6,Negative
+35,off acc0unt ,1 narrow direction Ponorogo is great,namsor_api_2.0.30,LATIN,f478554b-de4f-4d8a-b9d4-ed2c88e82619,off acc0unt ,male,-0.636011802,6.879160975,0.818005901,-2,Negative
+36,riyanatkinson,"Oh yes, Jakarta uses QRIS, hopefully Ponorogo uses QRIS",namsor_api_2.0.30,LATIN,3fff955d-1f3a-43e0-8b4f-e7a0ba399a63,riyanatkinson,male,-0.354070652,3.128929976,0.677035326,0,Neutral
+37,ramangabdulazis,people with low human resources for example,namsor_api_2.0.30,LATIN,f45c49cd-1ad8-4af8-8e7d-d124ce953904,ramangabdulazis,male,-0.336565729,2.864406296,0.668282864,-2,Negative
+38,cntrmo,use diamonds bro,namsor_api_2.0.30,LATIN,c4872180-a3b9-40f1-b0ee-a017f6a8ec8a,cntrmo,male,-0.234317413,1.841678355,0.617158706,3,Positive
+39,ricardo kneff,masook,namsor_api_2.0.30,LATIN,42664c8d-a94e-4a36-9dcf-8715c07482ff,ricardo kneff,male,-0.805942792,8.309316538,0.902971396,0,Neutral
+40,teguh prasetyo   ,Complaints about expensive parking were granted a thousand parking lots,namsor_api_2.0.30,LATIN,3385c815-8db7-4b53-aacd-a85361e85b6d,teguh prasetyo   ,male,-0.535811014,6.316500965,0.767905507,2,Positive
+41,zahira belva,1000000 coins begging to be said to be fairly young and old parking attendant,namsor_api_2.0.30,LATIN,9d5e86f1-dbdd-467f-a5e0-9e7e45fddbb7,zahira belva,female,0.891976464,9.461405514,0.945988232,-12,Negative
+42,ifthon  ,good positive,namsor_api_2.0.30,LATIN,f0a374ac-dc75-4945-8644-df40a1e4320c,ifthon  ,male,-0.348153864,3.029219462,0.674076932,2,Positive
+43,friska ioo,Alonalon Jukir east parking 2000 min,namsor_api_2.0.30,LATIN,26841232-94e1-4be5-9daa-b0136cd60dcb,friska ioo,female,0.572519875,6.513628913,0.786259937,1,Positive
+44,alirahmanta,street parking interferes with the shoulder of the road strangest street parking,namsor_api_2.0.30,LATIN,1e4b9b71-ad31-4774-a707-cf938b521c30,alirahmanta,female,0.209403283,1.671775715,0.604701642,2,Positive
+45,dimsro,salfok writing parking storage lost motorbike free parking ticket,namsor_api_2.0.30,LATIN,4cf173b7-d9e9-449e-af32-368e4621f7c6,dimsro,male,-0.373286975,3.609888882,0.686643487,2,Positive
+46,shinta anf,"yes, ma'am, you are required to have a high salary, the demands of the rich, the poor, suffer from a balanced age, good salary, tired, tired of looking for work, average salary, dear, spirit of Rupiah fighter",namsor_api_2.0.30,LATIN,db1e791b-ea1f-417e-9669-d45c99e24391,shinta anf,female,0.5314451,6.277076579,0.76572255,-7,Negative
+47,roufyasmien  ,"good, avoid illegal parking",namsor_api_2.0.30,LATIN,8356c818-2d7f-4190-bbfa-b18d19ed16ae,roufyasmien  ,male,-0.375721831,3.785094204,0.687860915,-1,Negative
+48,andry agustya,pay cash electronic money,namsor_api_2.0.30,LATIN,bc3ca49a-e6f9-40ae-9ed1-92752f60f3df,andry agustya,male,-0.375429274,3.762430388,0.687714637,0,Neutral
+49,srikaya mas,agree,namsor_api_2.0.30,LATIN,06be7d7c-62e7-4d86-8e0a-e64bc55339a4,srikaya mas,female,0.143373453,1.396736059,0.571686727,1,Positive
+50,erda kc,nan,namsor_api_2.0.30,LATIN,9414240e-4cec-4d5e-a934-c102281e150d,erda kc,female,0.435238332,5.503229161,0.717619166,0,Neutral
+51,ricardo kneff,Pay using min transfer using Emoney,namsor_api_2.0.30,LATIN,88eac4e1-e3c3-4b2a-a6a2-8aa6693a898c,ricardo kneff,male,-0.805942792,8.309316538,0.902971396,-2,Negative
+52,ambonzxz,Umbrellas for junior high school 6 are used up,namsor_api_2.0.30,LATIN,231a5edb-80d8-4d69-94fe-6f10b0382b06,ambonzxz,male,-0.153432292,1.435657845,0.576716146,0,Neutral
+53,jalanpulangq,"paid by the people, provided with luxurious facilities, the people serve the people, make people's affairs easier, skills, advanced technology, adjust salaries, facilities enjoyed by officials, people's facilities are easy, fair",namsor_api_2.0.30,LATIN,d3aea445-314b-4685-9671-945faf2fa368,jalanpulangq,male,-0.290658878,2.424780749,0.645329439,0,Neutral
+54,saidrosyadii,Sip forward,namsor_api_2.0.30,LATIN,7a45aa27-7293-4d7c-8bb5-fff94aaf024c,saidrosyadii,male,-0.072222734,1.042999032,0.536111367,0,Neutral
+55,zumaroqoirul,"Looking for a short video admin for parking payments, Ben understands",namsor_api_2.0.30,LATIN,8acc4ab7-00b8-4064-8fcc-d896ab9d879b,zumaroqoirul,male,-0.308505133,2.57650573,0.654252566,-5,Negative
+57,ponorogo update,nan,namsor_api_2.0.30,LATIN,d164edf8-75f9-4b7f-9339-a35772d0f3a5,ponorogo update,male,-0.37191999,3.522950244,0.685959995,0,Neutral
+58,chynsd ,roads repaired in remote areas,namsor_api_2.0.30,LATIN,f77f86d6-ad33-4e95-95fc-b491ff4b3b0b,chynsd ,male,-0.270209937,2.238125123,0.635104968,-5,Negative
+59,adibaskome,Guests entering the shop's parking alley will be charged a parking fee,namsor_api_2.0.30,LATIN,490d4c5d-e20f-404d-9b71-9e23dfefc8b5,adibaskome,male,-0.073545045,1.114495651,0.536772522,-5,Negative
+60,gustavianooo,It's strange that human resources are fast at 10,namsor_api_2.0.30,LATIN,8b431d37-0975-435f-bf13-8b236f646625,gustavianooo,male,-0.381472308,4.375463172,0.690736154,0,Neutral
+61,mrluckym n,chaotic,namsor_api_2.0.30,LATIN,350982b7-1131-441e-9564-90f21cc24294,mrluckym n,male,-0.073388915,1.105920637,0.536694458,0,Neutral
+62,frida jemprit,Thank God Ponorogo is progressing,namsor_api_2.0.30,LATIN,edc48f43-2b69-4022-a05f-c3410b94a4c7,frida jemprit,female,0.487838281,5.950353019,0.74391914,5,Positive
+63,justt ndyy,"Using a motorbike, take it into the alley using a car, there is a risk of parking in the alley",namsor_api_2.0.30,LATIN,5af130eb-d7fe-4946-939b-bf65a4e1c9ac,justt ndyy,male,-0.057585823,0.362201066,0.528792912,-11,Negative
+64,yoestiagustina,let's do it,namsor_api_2.0.30,LATIN,8772c8ac-0750-4446-8c41-7e6f6b320e33,yoestiagustina,female,0.144117654,1.399584352,0.572058827,4,Positive
+65,bayu fikri ,It's like making a card is like entering a toll road,namsor_api_2.0.30,LATIN,c2f36ead-a223-42bf-be39-4135db2f8b92,bayu fikri ,male,-0.433605206,5.471003672,0.716802603,-6,Negative
+66,bayu fikri ,Try to check whether the parking is suitable,namsor_api_2.0.30,LATIN,162b16df-c22f-4553-97bb-203718e7382e,bayu fikri ,male,-0.433605206,5.471003672,0.716802603,3,Positive
+67,agungyuliyantonugroho,sip to reduce extortion,namsor_api_2.0.30,LATIN,c52be96a-491f-4bf5-b8d0-4a01e78e53fb,agungyuliyantonugroho,male,-0.365204493,3.345636448,0.682602246,0,Neutral
+68,naawae  0,hahaha bored manually,namsor_api_2.0.30,LATIN,caaf6ffd-7d85-47ad-bd2a-079ef2b47784,naawae  0,female,0.063950279,0.639911682,0.53197514,0,Neutral
+69,infoponorogo,wow,namsor_api_2.0.30,LATIN,5bd0cf2f-e844-4ff3-a649-c367ed4d9fa6,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+70,agushd pg,as37s7 qualified human resources training HR,namsor_api_2.0.30,LATIN,10df2fdb-c5c0-429a-9903-78cde77e8925,agushd pg,male,-0.287730057,2.401635471,0.643865028,-2,Negative
+71,anjar ao,huahuahuahahahaha,namsor_api_2.0.30,LATIN,f33f2ad9-cd59-4443-a8a7-6b558848867a,anjar ao,male,-0.62027329,6.775388277,0.810136645,0,Neutral
+72,r mas sai,street side parking,namsor_api_2.0.30,LATIN,de3d74ba-3257-44a2-b5c9-6011ef2dd0d8,r mas sai,male,-0.304557759,2.541220075,0.65227888,-3,Negative
+73,infoponorogo,nan,namsor_api_2.0.30,LATIN,0b90eaf0-0bea-4402-adcc-24b82f62b679,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+74,infoponorogo,ha ha,namsor_api_2.0.30,LATIN,dd4da064-d268-4d25-bf7b-9414b66b5880,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+75,infoponorogo,Haha,namsor_api_2.0.30,LATIN,6d0eb91c-9325-4c1b-b952-ff77ce8e3e85,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+77,infoponorogo,you know,namsor_api_2.0.30,LATIN,f7eb2bdd-d636-43d8-a7cb-c33bd0989fd9,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+78,r mas sai,don't use a motorbike,namsor_api_2.0.30,LATIN,6212ecc7-e440-4d9d-b145-5bcfce01f0b3,r mas sai,male,-0.304557759,2.541220075,0.65227888,0,Neutral
+79,jedar jedor,"convenient to pay for parking, why is it difficult",namsor_api_2.0.30,LATIN,91b4538f-e6e3-4f89-9275-204d1f5bfd34,jedar jedor,male,-0.379976595,4.186699497,0.689988298,1,Positive
+80,dikadap ,parking is complicated,namsor_api_2.0.30,LATIN,1bb6273a-43c0-41eb-a36b-3b41c6c88fbf,dikadap ,male,-0.3808084,4.287374483,0.6904042,-3,Negative
+81,rapi itsunana,pay for parking,namsor_api_2.0.30,LATIN,7b79e974-4f5c-48d3-81d2-891b61e049e5,rapi itsunana,male,-0.352731197,3.105549505,0.676365599,-2,Negative
+82,dwiprakoso  ,agree to get rid of the parking attendant,namsor_api_2.0.30,LATIN,87168d75-8b00-4c25-a9c2-84245fe62e78,dwiprakoso  ,male,-0.347836971,3.024126202,0.673918486,-1,Negative
+83,road nashwalk,pom no rii,namsor_api_2.0.30,LATIN,32e4d738-0b19-4b04-bb0f-75411a600d9a,road nashwalk,male,-0.868468877,9.013181697,0.934234439,0,Neutral
+84,ganalprayogo,It's really normal bro hahaha,namsor_api_2.0.30,LATIN,dc13f845-b6ab-4073-b384-92f550b2caec,ganalprayogo,male,-0.364711477,3.335061198,0.682355738,4,Positive
+85,muhammad kamilin,slidekono the money comes in,namsor_api_2.0.30,LATIN,ea6c0d52-d913-493d-b7ec-ab921ed5dcd8,muhammad kamilin,male,-0.92500917,10.99995005,0.962504585,-3,Negative
+86,baguzfernanda,mini warteg,namsor_api_2.0.30,LATIN,7cb33890-70b5-4e35-968e-a690930147b6,baguzfernanda,female,0.063850925,0.635415048,0.531925463,0,Neutral
+87,sa muel    ,"What's the daily installment, boss?",namsor_api_2.0.30,LATIN,becc10c3-963f-4a05-9e3f-2f1b78904536,sa muel    ,female,0.243047279,1.927670176,0.62152364,3,Positive
+88,infoponorogo,nan,namsor_api_2.0.30,LATIN,97d6b22d-ba9b-4598-a8be-e328149ec1bb,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+89,infoponorogo,byuuuu do it,namsor_api_2.0.30,LATIN,d0960066-b70f-4398-87ca-041213a4d07a,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+90,infoponorogo,yes,namsor_api_2.0.30,LATIN,10f98a5b-918b-4228-b96b-d30793f29ca8,infoponorogo,male,-0.377713264,3.954005691,0.688856632,4,Positive
+91,infoponorogo,short parking,namsor_api_2.0.30,LATIN,ee106ac7-b5ab-4fca-a4a7-55d38388d030,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-1,Negative
+92,zazux yeye,ng mosque ae maton instead of shodaqoh but the parking garage is rough and angry,namsor_api_2.0.30,LATIN,ce2a2ffe-0fb6-41d3-a1ce-5db15b92c3e0,zazux yeye,male,-0.082460823,1.178232065,0.541230411,3,Positive
+93,zazux yeye,jane jukir human really useful parking manage money away,namsor_api_2.0.30,LATIN,5745b06e-68a5-4523-97a1-69ad3ae71ea2,zazux yeye,male,-0.082460823,1.178232065,0.541230411,7,Positive
+94,dwiprakoso  ,agree,namsor_api_2.0.30,LATIN,e83d8201-2058-4587-9f3a-941ed96c3555,dwiprakoso  ,male,-0.347836971,3.024126202,0.673918486,1,Positive
+95,anggamango,"It's difficult for young people to understand the condition of Ponorogo society, so don't look for faces, ideas create chaos, please look for faces",namsor_api_2.0.30,LATIN,485390c2-2c61-401d-b5fc-daaa0260efd2,anggamango,male,-0.29787491,2.483801168,0.648937455,-6,Negative
+96,fatria asmara ,fast motion waiting,namsor_api_2.0.30,LATIN,b5eee12a-aeaf-4623-abf9-44f6133105c2,fatria asmara ,female,0.05605377,0.297730932,0.528026885,-3,Negative
+97,agustk  ,"The parking attendant has a ticket for 2000, arranging the vehicle, you know, the salary is automatic, it's hard to drive",namsor_api_2.0.30,LATIN,2482df7e-e80d-4412-a539-232e0db90aed,agustk  ,male,-0.273125037,2.276458833,0.636562518,-13,Negative
+98,ajmln,The driver arranges the overheated motorbike and arranges the vehicle at the driver's convenience,namsor_api_2.0.30,LATIN,4cac06de-e112-4ce1-8d0b-cb36f9c709ff,ajmln,male,-0.379728884,4.158525836,0.689864442,4,Positive
+99,zazux yeye,complain yourself,namsor_api_2.0.30,LATIN,99c9ae96-5636-4fd9-b5dd-69e7cf2bae29,zazux yeye,male,-0.082460823,1.178232065,0.541230411,-1,Negative
+100, dianelss,"My mother's hotspot is confused, especially the scan system",namsor_api_2.0.30,LATIN,c16d997f-6160-4fb2-98c5-daac4379cb1e, dianelss,male,-0.05733876,0.351757382,0.52866938,-4,Negative
+101,ronaldandreass,got stuck in traffic,namsor_api_2.0.30,LATIN,c2454406-8d66-4862-b44a-0ca8eb8d4be7,ronaldandreass,male,-0.298828105,2.491821824,0.649414053,-3,Negative
+102,muhamd maghfur,please use the e parking tool to arrange the 10 minute free parking,namsor_api_2.0.30,LATIN,c598bdcf-1014-47ef-88be-9863ec8f5825,muhamd maghfur,male,-0.901307564,9.720318937,0.950653782,6,Positive
+103,teberagil,nan,namsor_api_2.0.30,LATIN,af2a8d08-366e-4bca-9a85-bac3b6e5f53d,teberagil,male,-0.334488706,2.840406745,0.667244353,0,Neutral
+104,alvuadu,"Come on, bro, go solo like this",namsor_api_2.0.30,LATIN,6c291c70-11cf-4dd3-9436-241fc1b12c69,alvuadu,male,-0.242706898,1.924212877,0.621353449,6,Positive
+105,defernandaa ,changed celebgram,namsor_api_2.0.30,LATIN,07e77be3-fffb-430c-bc54-622630e170f2,defernandaa ,male,-0.17531513,1.523725269,0.587657565,0,Neutral
+106,harymatika,The troublesome parking attendant was paid 2 thousand in change and paid 1000 in excess of the latest parking regulations,namsor_api_2.0.30,LATIN,cff5a5f3-2775-417d-adf3-394b69c224c5,harymatika,female,0.283327031,2.367659147,0.641663516,4,Positive
+107,maya mitha,"Halah Jalan Ombo, don't park in the same direction as the road",namsor_api_2.0.30,LATIN,184366de-88a3-410a-a3b5-7d993ddcd21d,maya mitha,female,0.796973132,8.190864927,0.898486566,-3,Negative
+108,dimasroby,"Come on, buy cigarettes using the app. It's hard to find food. Life is hard. Parking is very complicated. Using a cellphone is really difficult",namsor_api_2.0.30,LATIN,ca5e21b9-b55c-46ab-a20b-71c9c01a7229,dimasroby,male,-0.19235132,1.595900285,0.59617566,-15,Negative
+109,ajisetyowidodo,go to the toilet to make a sound,namsor_api_2.0.30,LATIN,9f411565-ec3e-4d01-8191-1b81d9bf0ea1,ajisetyowidodo,male,-0.368759699,3.425152875,0.684379849,-2,Negative
+110,ervhaa  ,makes it difficult for older parking attendants,namsor_api_2.0.30,LATIN,5bac4a94-43b1-491b-8c89-eaeeb282411d,ervhaa  ,male,-0.225856346,1.763167776,0.612928173,-4,Negative
+111,dickymaulana mtwk,go to the parking attendant,namsor_api_2.0.30,LATIN,41b6df2f-011e-4876-9d93-7e51f1c36123,dickymaulana mtwk,female,0.215778957,1.701181006,0.607889478,-3,Negative
+112,info skandal selebgram,Just give me 2000 then go straight away,namsor_api_2.0.30,LATIN,6ef10bed-d8d1-4529-ac4e-6df7d1228527,info skandal selebgram,male,-0.537588794,6.333008884,0.768794397,3,Positive
+113,pakcikpower  ,"You, ladies and gentlemen, the government follows",namsor_api_2.0.30,LATIN,556ecbe4-6e5c-44d3-b18a-e9e6f4a28b87,pakcikpower  ,male,-0.394997966,4.760456254,0.697498983,0,Neutral
+114,erda kc,the vehicle sped away,namsor_api_2.0.30,LATIN,aa6c9ffb-4c9d-4c35-814b-de08a6ac3e6d,erda kc,female,0.435238332,5.503229161,0.717619166,-5,Negative
+115,khapika chu,The motorbike was not in a driving position and was driven across,namsor_api_2.0.30,LATIN,922d6ba1-5e7d-48cb-8609-3f421c7e6786,khapika chu,female,0.24322069,1.929434964,0.621610345,0,Neutral
+116,zazux yeye,"haha, sometimes the parking attendant doesn't show up",namsor_api_2.0.30,LATIN,4b4c6b18-5283-431d-bc73-1a8e7cd108df,zazux yeye,male,-0.082460823,1.178232065,0.541230411,0,Neutral
+117,zazux yeye,"Yes, hopefully you want a minimum of 10 minutes, 5 minutes, the time to pay for solar parking, pay for parking at the cashier hadeh",namsor_api_2.0.30,LATIN,45629870-3830-43c6-b546-64001989c2f5,zazux yeye,male,-0.082460823,1.178232065,0.541230411,-10,Negative
+118,hary kurni ,"I agree, poll instead of hitting the parking attendant when greeting the parking attendant when he comes home",namsor_api_2.0.30,LATIN,6dacc200-fff3-4363-abcf-f299ae93bb25,hary kurni ,male,-0.380558484,4.256078472,0.690279242,0,Neutral
+119,ramangabdulazis,complicated,namsor_api_2.0.30,LATIN,903b4749-f36a-4843-8fc4-ed63f0d1b97e,ramangabdulazis,male,-0.336565729,2.864406296,0.668282864,-5,Negative
+120,dimasak ,I heard that the children's market was turned into a car park,namsor_api_2.0.30,LATIN,640f3af0-5c69-4af8-bece-ff12565bff7f,dimasak ,male,-0.378548913,4.033957528,0.689274457,1,Positive
+121,infoponorogo,"Yes, I'm confused about inviting a bike friend",namsor_api_2.0.30,LATIN,7f065a99-9afa-443b-88ba-e6aaa19a4c1f,infoponorogo,male,-0.377713264,3.954005691,0.688856632,1,Positive
+122,infoponorogo,according to me,namsor_api_2.0.30,LATIN,bcc60181-89da-4941-af97-6005da85c79c,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+123,infoponorogo,used to,namsor_api_2.0.30,LATIN,796c7ae2-84c8-42ed-ba02-b43fe161341f,infoponorogo,male,-0.377713264,3.954005691,0.688856632,3,Positive
+124,infoponorogo,unsettling,namsor_api_2.0.30,LATIN,681c821e-13d3-4230-9455-281cb105cf2f,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-4,Negative
+125,infoponorogo,it's delicious sis,namsor_api_2.0.30,LATIN,47ba9c13-8a3f-4f42-9da9-39fd67b9d9c5,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+126,infoponorogo,"Well, what's it like there?",namsor_api_2.0.30,LATIN,424a2b6f-97bb-4dc8-baf5-9977b681b4fe,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+127,infoponorogo,Get used to the electronic parking manual,namsor_api_2.0.30,LATIN,e78c1219-3375-4e87-8451-80469b7afe8a,infoponorogo,male,-0.377713264,3.954005691,0.688856632,5,Positive
+128,infoponorogo,hahaha scuffle,namsor_api_2.0.30,LATIN,d2fac1a3-f1dc-483c-a5fb-c8e36f474d1f,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-7,Negative
+129,gendondjadoel,"You know, it's true that the parking ticket doesn't fit right into the parking lot, it's illegal money",namsor_api_2.0.30,LATIN,abaeadb1-db5e-49ad-9102-1b356c9aa05f,gendondjadoel,male,-0.372158969,3.537643221,0.686079484,1,Positive
+130,infoponorogo,wow,namsor_api_2.0.30,LATIN,5606d343-b833-4ff5-b581-53ba8058eacc,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+131,ramangabdulazis,"bro, cellphone 3315 drink",namsor_api_2.0.30,LATIN,f2799760-0e09-49ca-9d13-68efbdd4e5eb,ramangabdulazis,male,-0.336565729,2.864406296,0.668282864,-3,Negative
+132,zazux yeye,"He's my son's boss, my son's solar motorbike pays for the cashier's parking, ugh that's bad",namsor_api_2.0.30,LATIN,4b341d26-177b-4dd5-b7e1-b54ed46866d8,zazux yeye,male,-0.082460823,1.178232065,0.541230411,-7,Negative
+133,ziyamlabela,the vehicle ran away,namsor_api_2.0.30,LATIN,e5416dc8-4bc0-4251-88ae-53ea9aeaac27,ziyamlabela,female,0.222456376,1.732813787,0.611228188,-5,Negative
+134,infoponorogo,"wow, that's hard",namsor_api_2.0.30,LATIN,f81029bd-542e-4c41-a278-72466ece7b10,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+135,infoponorogo,wealah park mall public parking services,namsor_api_2.0.30,LATIN,5eacfc4a-56c5-40b6-a34c-94c0fd461c55,infoponorogo,male,-0.377713264,3.954005691,0.688856632,5,Positive
+136,infoponorogo,drink anywhere with you,namsor_api_2.0.30,LATIN,18bef775-bf10-4b96-a267-305ab9c0a337,infoponorogo,male,-0.377713264,3.954005691,0.688856632,1,Positive
+137,infoponorogo,run first,namsor_api_2.0.30,LATIN,f94fd23a-a49f-494c-9565-2a429f5ea9f4,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-2,Negative
+138,ramangabdulazis,loss permit,namsor_api_2.0.30,LATIN,000f95d5-81a3-4908-b77e-176d9cf31fe3,ramangabdulazis,male,-0.336565729,2.864406296,0.668282864,-4,Negative
+139,muhammad kamilin,"What is the driver's job doing, min? Electronic parking is involved",namsor_api_2.0.30,LATIN,c853f31b-63c2-4819-a482-cb7949b1d2a1,muhammad kamilin,male,-0.92500917,10.99995005,0.962504585,1,Positive
+140,adilaarp,easy for cashless people,namsor_api_2.0.30,LATIN,65176689-e781-40ec-9c4d-e11bd0c0b5e7,adilaarp,male,-0.318308949,2.669080843,0.659154474,3,Positive
+141,infoponorogo,bro,namsor_api_2.0.30,LATIN,9ec281fa-ec91-4846-b2cb-1ffe7c2e14d5,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+142,infoponorogo,the tool is operated by hand,namsor_api_2.0.30,LATIN,f9bd76c3-8a57-4414-a377-aead8b37433f,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+143,infoponorogo,the jukir was left,namsor_api_2.0.30,LATIN,d7145c44-929d-465f-afd4-61c11d5194bd,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+144,ulya nur r  ,people coming home suddenly queued,namsor_api_2.0.30,LATIN,2323fcb2-b11b-484f-bf49-7ad86ca6468d,ulya nur r  ,female,0.687259461,7.216636374,0.84362973,0,Neutral
+145,melisadwi a,nan,namsor_api_2.0.30,LATIN,b8df1361-c8d2-445d-a64a-62a782530731,melisadwi a,female,0.103238088,1.24978488,0.551619044,0,Neutral
+146,infoponorogo,calm down bro,namsor_api_2.0.30,LATIN,13eee273-0145-451d-9cdc-06e4544b1c55,infoponorogo,male,-0.377713264,3.954005691,0.688856632,4,Positive
+147,infoponorogo,how delicious,namsor_api_2.0.30,LATIN,4d308a52-10db-43f7-9e75-128c19792fd0,infoponorogo,male,-0.377713264,3.954005691,0.688856632,1,Positive
+148,mast echooooooo,Imagine going with the parking attendant,namsor_api_2.0.30,LATIN,751560b4-6f6e-4b8c-a5d6-7263321b778e,mast echooooooo,male,-0.363774512,3.315245709,0.681887256,-5,Negative
+149,lksworo,"Hold the parking lot, bro",namsor_api_2.0.30,LATIN,599269b0-df1c-4745-a459-cc6d29f720d2,lksworo,male,-0.330307175,2.793589467,0.665153587,-1,Negative
+150,mast echooooooo,"The car looks like it's big, where is the parking apparatus?",namsor_api_2.0.30,LATIN,8a3b593c-4259-4cf5-bc93-385d8f96ee31,mast echooooooo,male,-0.363774512,3.315245709,0.681887256,-2,Negative
+151,alfian ahmd,It needs to be arranged quickly to get across the queue for the car driver's job of arranging the motorbike,namsor_api_2.0.30,LATIN,1d9e1b1c-b071-4892-83d1-6bbe883973c1,alfian ahmd,male,-0.681923608,7.184858813,0.840961804,-2,Negative
+152,zufaraa,surprised,namsor_api_2.0.30,LATIN,6057f3c4-43cd-47ae-a3d0-a8a32567754a,zufaraa,male,-0.054643066,0.238908751,0.527321533,0,Neutral
+153,zazux yeye,Annoying the milk boss didn't lose his parking fee,namsor_api_2.0.30,LATIN,99b56a4d-c2ba-4b4b-97ae-48345eba59d7,zazux yeye,male,-0.082460823,1.178232065,0.541230411,-6,Negative
+154,tambur ae,how is it arranged hmmmm?,namsor_api_2.0.30,LATIN,a5df45ef-086f-4eb3-be88-8645b63d786d,tambur ae,male,-0.311367732,2.602780005,0.655683866,0,Neutral
+155,infoponorogo,Lhaladaaah shopping center service center,namsor_api_2.0.30,LATIN,baa3fc4f-fb0e-47f5-a4fe-839b36e836a8,infoponorogo,male,-0.377713264,3.954005691,0.688856632,9,Positive
+156,infoponorogo,easy,namsor_api_2.0.30,LATIN,b6c95498-e0fc-4723-9bec-3b7e0c01e2ad,infoponorogo,male,-0.377713264,3.954005691,0.688856632,3,Positive
+157,infoponorogo,wow,namsor_api_2.0.30,LATIN,b3bae2fb-2a2d-4e30-9334-3fab8c9559ca,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+158,infoponorogo,tested,namsor_api_2.0.30,LATIN,66e7b1bf-f4de-4ad5-bec6-969ccde1f375,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+159,muhammad kamilin,free parking,namsor_api_2.0.30,LATIN,8fc4a055-72a6-4ab2-b246-8a798ee698d5,muhammad kamilin,male,-0.92500917,10.99995005,0.962504585,5,Positive
+160,ramangabdulazis,I'm Japanese min,namsor_api_2.0.30,LATIN,d6a22070-2b1c-4870-959e-5ba12e9cad53,ramangabdulazis,male,-0.336565729,2.864406296,0.668282864,0,Neutral
+161,bayusimex,scan qr code qris pay,namsor_api_2.0.30,LATIN,e8910e63-a68b-4c98-abbd-cb56ccba79b1,bayusimex,male,-0.377024845,3.892469958,0.688512422,-6,Negative
+162, noveliay,okay progress,namsor_api_2.0.30,LATIN,e8a1cbfb-507d-4a3d-8210-bcd85cd7e5f9, noveliay,male,-0.050908154,0.084875175,0.525454077,0,Neutral
+163,anjar ao,the team listened to him gaps,namsor_api_2.0.30,LATIN,7f257792-f3ea-41dd-a778-63f91f211c6a,anjar ao,male,-0.62027329,6.775388277,0.810136645,-7,Negative
+164,infoponorogo,"Yes, find things, find things, share them, be patient with your sustenance",namsor_api_2.0.30,LATIN,8799c748-65b3-4469-ac89-9bc817b24286,infoponorogo,male,-0.377713264,3.954005691,0.688856632,15,Positive
+165,infoponorogo,watduuuuh,namsor_api_2.0.30,LATIN,b7ac28c0-92cc-4fb7-b05a-0f41831fc6bf,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+166,infoponorogo,news,namsor_api_2.0.30,LATIN,099614fa-6b89-4c50-9234-1a08da39d58b,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-1,Negative
+167,infoponorogo,wow how difficult,namsor_api_2.0.30,LATIN,dfc3ba15-046e-4677-adf3-9ab5fb685467,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-3,Negative
+168,nadarulhuda suluhagama,"just a moment, the reasons are complicated, it makes sense, the income has decreased, it's strange, whatever",namsor_api_2.0.30,LATIN,14f4652b-b101-439e-a672-bd7a797d1714,nadarulhuda suluhagama,female,0.163972247,1.477467596,0.581986123,-11,Negative
+169,pfs 00 ,Usually if the trial continues the evaluation is just a formality for the Konoha state,namsor_api_2.0.30,LATIN,3d88ee28-13f5-4aec-9c36-d225f1df3260,pfs 00 ,male,-0.373890414,3.650667028,0.686945207,2,Positive
+170,reelfaiz,"comfortable electronic parking, the experience of paying according to the rules, glaring at the driver, mockingly laughing at obeying the difficult rules",namsor_api_2.0.30,LATIN,5772567d-5069-478a-aa8c-230f7efef7f5,reelfaiz,male,-0.236316251,1.860893623,0.618158125,6,Positive
+171,infoponorogo,yes,namsor_api_2.0.30,LATIN,def618c3-f418-48d9-adb6-af2d71e350e9,infoponorogo,male,-0.377713264,3.954005691,0.688856632,4,Positive
+172,infoponorogo,hmmhehe fight,namsor_api_2.0.30,LATIN,d26f6bd2-808f-4cf7-9c4f-eca3f9175d4d,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-4,Negative
+173,infoponorogo,Hehehada thinks taking care of being arranged to run first,namsor_api_2.0.30,LATIN,8e592251-cbd8-480b-bf3f-418979fd1931,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-2,Negative
+174,infoponorogo,okayeeeeee,namsor_api_2.0.30,LATIN,c2c878fd-15d5-4c91-bbfb-c44cdeb939f9,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+175,pfs 00 ,please,namsor_api_2.0.30,LATIN,a1775686-d5bc-4113-b7b1-92c64f4f275b,pfs 00 ,male,-0.373890414,3.650667028,0.686945207,0,Neutral
+176,infoponorogo,"What does the village head think about the information, bro?",namsor_api_2.0.30,LATIN,f34267fc-7fc6-4715-8f05-8253c82f96a1,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-1,Negative
+177,aqwam nasimbada,manually controlled hahaha,namsor_api_2.0.30,LATIN,d78618a5-4521-46a9-b6f2-d98508398e2c,aqwam nasimbada,male,-0.894766439,9.531069091,0.947383219,3,Positive
+178,aqwam nasimbada,Hopefully the only cause of reduced income is the transportation department's savings,namsor_api_2.0.30,LATIN,9c3e59e9-e079-4320-b8b1-522418f43ee7,aqwam nasimbada,male,-0.894766439,9.531069091,0.947383219,-1,Negative
+179,renataelvina,electronic parking regulations,namsor_api_2.0.30,LATIN,1fd2c2c1-8404-430e-a29a-3aa560b9f12d,renataelvina,female,0.176565897,1.528910647,0.588282949,1,Positive
+180,dem met  ,comfortable not comfortable min,namsor_api_2.0.30,LATIN,d0b3e54e-29b8-4cf9-b161-24052650149a,dem met  ,male,-0.531629123,6.278707427,0.765814562,8,Positive
+181, renggananda,basically back and forth,namsor_api_2.0.30,LATIN,08f682d6-e7ab-4f90-9b8f-4b612837dee6, renggananda,female,0.054867951,0.24825569,0.527433975,0,Neutral
+182,romantriz,Third managed PCC parking,namsor_api_2.0.30,LATIN,81193375-974a-4193-add5-881916d5400e,romantriz,male,-0.266057748,2.185491785,0.633028874,1,Positive
+183,muhamd maghfur,"In the digital era, human resources have been increased, the regional government's goal of modernization is to minimize leaks and increase",namsor_api_2.0.30,LATIN,075ee6f4-2f3c-41e7-a279-ca7622373b91,muhamd maghfur,male,-0.901307564,9.720318937,0.950653782,0,Neutral
+184,eline xiandhia,"enforced by the honest jukir, written local regulation on parking rates, good electronic parking, easy to get used to, avoid pad leaks, come on, great ponorogo",namsor_api_2.0.30,LATIN,b2fbfecd-16c4-4ed2-ad16-d681fc5a5aae,eline xiandhia,female,0.700084914,7.297414887,0.850042457,7,Positive
+185,muhamd maghfur,"I'm sorry, the village finances village funds, please go to the village office",namsor_api_2.0.30,LATIN,60cc1cf2-a745-442d-8f15-bfff8e6b2dcb,muhamd maghfur,male,-0.901307564,9.720318937,0.950653782,4,Positive
+186,rmzlahmad dr,the extortion village shocked the village road cemented by my house,namsor_api_2.0.30,LATIN,be89bd04-9dea-4c0b-bad9-99c3ed651154,rmzlahmad dr,male,-0.37756721,3.940642672,0.688783605,0,Neutral
+187,rmzlahmad dr,muhammad maghfur 3 move people give up,namsor_api_2.0.30,LATIN,9c6ec69d-0d03-4615-8dbe-e15cb32b978a,rmzlahmad dr,male,-0.37756721,3.940642672,0.688783605,-6,Negative
+188,rmzlahmad dr,Pandemic information is built on change,namsor_api_2.0.30,LATIN,6fa3a3cd-e897-48e9-b50f-055195f91990,rmzlahmad dr,male,-0.37756721,3.940642672,0.688783605,-2,Negative
+189,clpt gtgg ,manual technique suddenly nothing,namsor_api_2.0.30,LATIN,7021d909-9316-4928-823e-0ce97312a817,clpt gtgg ,male,-0.238551491,1.882706073,0.619275746,0,Neutral
+190,clpt gtgg ,noisy,namsor_api_2.0.30,LATIN,043a04e5-fd1f-4a54-956f-7e2c44c4f518,clpt gtgg ,male,-0.238551491,1.882706073,0.619275746,0,Neutral
+191,nizarkurangturu ,back and forth,namsor_api_2.0.30,LATIN,0c0a257a-9c42-4a0c-bec8-7a4464de72f3,nizarkurangturu ,male,-0.070174327,0.936817318,0.535087163,0,Neutral
+192,gusrori ,"Confused, it's better to walk",namsor_api_2.0.30,LATIN,2392c20b-67b8-4e6e-954d-8ef6260c4588,gusrori ,male,-0.276209811,2.314682034,0.638104906,-1,Negative
+193,septianpamungkas png,empty min,namsor_api_2.0.30,LATIN,4d64fb56-b915-4041-8d2b-1f9a0086c43c,septianpamungkas png,male,-0.343691152,2.959570039,0.671845576,-4,Negative
+194,septianpamungkas png,Just to help pray using electronics so that the parking fee will not be adjusted when you don't use a ticket,namsor_api_2.0.30,LATIN,0a964c6f-b7c5-4942-88ef-28ceef28a984,septianpamungkas png,male,-0.343691152,2.959570039,0.671845576,2,Positive
+195,hantoro krista,reject his income loss,namsor_api_2.0.30,LATIN,8cc9cf1d-04e6-4190-89bf-69fb7387479f,hantoro krista,male,-0.584883316,6.575122603,0.792441658,-9,Negative
+196,angry bud,the era of developing electronics must adapt,namsor_api_2.0.30,LATIN,bfdcebc7-5ba9-4f53-b62a-c988842a8719,angry bud,male,-0.741572906,7.614981712,0.870786453,0,Neutral
+197,dwi yulia,convenient electronic parking low parking fees min,namsor_api_2.0.30,LATIN,9072896b-7c55-4d8e-865c-15208d5bfbd6,dwi yulia,female,0.380981349,4.309603872,0.690490675,1,Positive
+198,mohamadaxel,"it's good that electronic parking, parking attendants work for money",namsor_api_2.0.30,LATIN,50b2fb04-b9c9-4938-8e35-9b507a3092e5,mohamadaxel,male,-0.380492438,4.247964425,0.690246219,3,Positive
+199,anang pr  ,"wow, it's up to you what you want",namsor_api_2.0.30,LATIN,409312fb-8d7d-4287-b66d-471a2318a62d,anang pr  ,male,-0.442025165,5.649421546,0.721012582,-4,Negative
+200,arkhasewandono,"The driver refuses electronic parking, refuses manual parking and both refuses to pay",namsor_api_2.0.30,LATIN,6b05f851-46b0-4775-b116-9a88555f79de,arkhasewandono,male,-0.359228254,3.223956964,0.679614127,-12,Negative
+201,ajudannnn,"The reason is that there are fewer areas where banners with photos have gone viral, giving drivers tickets. Drivers are worried about the hassle of electronic parking",namsor_api_2.0.30,LATIN,996f3e70-89e3-41f1-bae2-b5352d400bd6,ajudannnn,male,-0.096563079,1.226492723,0.54828154,1,Positive
+202,ajudannnn,the reason is to deposit the regional government's money according to yesterday's target of paying 15 thousand cars for Eid,namsor_api_2.0.30,LATIN,08a7a84f-59e1-4f92-9ab8-a735e8e92992,ajudannnn,male,-0.096563079,1.226492723,0.54828154,2,Positive
+203,karya dx,"I think the solar self-service parking system is to pay the cashier's parking so that there are no leaks, the rates are not misused",namsor_api_2.0.30,LATIN,d6a8da1e-1a4c-412b-bfd1-34d537e0f208,karya dx,female,0.527086156,6.239201729,0.763543078,-2,Negative
+204,sinyo permana,"Don't pay a thousand, bro, for car parking, 10 thousand, change is good, use the system directly to the local government",namsor_api_2.0.30,LATIN,f0f9aac1-8ff5-4e99-8753-c074679d4684,sinyo permana,male,-0.337087278,2.870514222,0.668543639,-8,Negative
+205,ruvizuana,"The jukir has difficulty using electronic devices, please replace them, young unemployed graduates",namsor_api_2.0.30,LATIN,85065f92-092c-4c94-b07e-0cba8d554c12,ruvizuana,female,0.077994141,1.163201602,0.538997071,-12,Negative
+206,infoponorogo,Lhadalaa,namsor_api_2.0.30,LATIN,4685ef78-bd77-4704-a6d3-4d1ef83fbd66,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+207,dilaga    ,nan,namsor_api_2.0.30,LATIN,99049cd5-f881-4291-b2cb-fe6b8afbf9f9,dilaga    ,male,-0.468811822,5.835475593,0.734405911,0,Neutral
+208,karya dx,"I'm not sincere, I feel like I'm paying a thief, BCA is giving 2k, I'm giving 1k, Hos Cokroaminoto won't return Balong area, 2K will be returned",namsor_api_2.0.30,LATIN,741a1e1c-2aa5-447e-a1fb-f58112511181,karya dx,female,0.527086156,6.239201729,0.763543078,2,Positive
+209,sinyo permana,"sincerity, honesty, regional regulations regulate parking rates, parking attendants are given 10,000, electronic payment works according to the SOP",namsor_api_2.0.30,LATIN,d8feb39f-7a62-428e-b003-4f116f61eb3b,sinyo permana,male,-0.337087278,2.870514222,0.668543639,9,Positive
+210,karya dx,"gt bro, given 2000 diem wherever you go 1000000 diem 2000000 people returned gt not willing to be cheated agreed to make roadside fare",namsor_api_2.0.30,LATIN,32e414b1-c78c-4ba0-9f8b-c37fc7e88e12,karya dx,female,0.527086156,6.239201729,0.763543078,1,Positive
+211,ayubsimone,hos cokroaminoto electronic parking legi market suitable,namsor_api_2.0.30,LATIN,a86fca7c-1002-4457-8d6a-1879649f6718,ayubsimone,female,0.052979478,0.17005917,0.526489739,2,Positive
+212,super keju  ,difficult people,namsor_api_2.0.30,LATIN,3d11d1d4-b5de-45e7-b2f9-0c43285797da,super keju  ,male,-0.470293122,5.843963128,0.735146561,0,Neutral
+213,kapringga,the rules are suddenly confusing for people in their 50s to understand,namsor_api_2.0.30,LATIN,c9233ed8-80d7-4574-96a2-d9b8c003855b,kapringga,male,-0.058456048,0.399146793,0.529228024,-3,Negative
+214,singgih dwi hs,"good electronic parking, maximum money coming in. Government trend, tax revenue is prone to private use. The point is, do you know where the money is?",namsor_api_2.0.30,LATIN,62d065c6-4bee-4dce-9b96-c908bfd1d1e1,singgih dwi hs,male,-0.293241738,2.445570993,0.646620869,-15,Negative
+215,tuludnah,reduce the income of naughty carers,namsor_api_2.0.30,LATIN,dfe61c96-7dea-4b0f-8acb-38d827c1e8d4,tuludnah,male,-0.159208241,1.458434995,0.579604121,-6,Negative
+216,rdwnardian ,"The worst parking attendant in the town square chose to pay 5000 to park his motorbike and it didn't go, no matter what",namsor_api_2.0.30,LATIN,da1b379b-643e-484b-b3af-836394c1478c,rdwnardian ,male,-0.370463965,3.465476978,0.685231982,-7,Negative
+217,davidferdy,last night 3000 motorbike festival,namsor_api_2.0.30,LATIN,ae8045d6-8bb3-44af-8ec0-39911964674d,davidferdy,male,-0.066674484,0.765858627,0.533337242,-1,Negative
+218,infoponorogo,do you use a manual ticket?,namsor_api_2.0.30,LATIN,d6016591-aea7-4180-9a4c-853e9aa7555d,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+219,infoponorogo,"OK, cheer up brother",namsor_api_2.0.30,LATIN,58e49ef7-c948-43c2-ad5c-4bff30f5666f,infoponorogo,male,-0.377713264,3.954005691,0.688856632,3,Positive
+220,infoponorogo,"Look after Roy's friend, Agus Yayat's subordinate",namsor_api_2.0.30,LATIN,0bb1e8fc-a113-44e8-a4ec-9033ba45caa4,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-7,Negative
+221,infoponorogo,"OK, so orderly",namsor_api_2.0.30,LATIN,4b33e902-2dc6-4d3c-9353-360d7a95a767,infoponorogo,male,-0.377713264,3.954005691,0.688856632,4,Positive
+222,nunu sgt,"Choose electronics, min, I'm too lazy to deal with a thousand drivers, I received a thousand returns, come on, the Transportation Department encourages eparking",namsor_api_2.0.30,LATIN,f29ad4e9-eb88-480f-a07c-db7809d4fd44,nunu sgt,female,0.354309279,3.133148305,0.677154639,2,Positive
+223,infoponorogo,"OK, electronics team, please be orderly",namsor_api_2.0.30,LATIN,cc388394-b893-45da-8e5a-28b73649e0e7,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+224,fakhmiky,The long process of changing times to adapt to parking has resulted in a reduction in parking prices,namsor_api_2.0.30,LATIN,0c6367da-cd9d-4fe0-b751-2d56822400f7,fakhmiky,male,-0.05974153,0.454226424,0.529870765,3,Positive
+225,ryssangpratama,"Minn, I know that the road to my house is marked by the Department of Transportation",namsor_api_2.0.30,LATIN,e252ffcd-cf54-41db-8834-c34e0bde9a57,ryssangpratama,female,0.060295055,0.478149059,0.530147527,-4,Negative
+226,dilaga    ,manual parking pay 1000 Ponorogo district parking,namsor_api_2.0.30,LATIN,23399047-8ac5-4866-9f01-8b5af8c9ef7f,dilaga    ,male,-0.468811822,5.835475593,0.734405911,0,Neutral
+227,tofan ts,"underlined, the emphasis is on reducing income, yes, the intention to use eparking, technical guidance and training, is confused",namsor_api_2.0.30,LATIN,2542fb1f-1d9b-4383-bde5-12ec0e8c9833,tofan ts,male,-0.886913847,9.346481065,0.943456924,3,Positive
+228,infoponorogo,"Well, that's right, I've tried eparking, bro",namsor_api_2.0.30,LATIN,974369f8-b217-4cf1-a80a-1a93765e3408,infoponorogo,male,-0.377713264,3.954005691,0.688856632,1,Positive
+229,ryo shikamaru,"honest electronic parking, the paper was replaced 2000 3000",namsor_api_2.0.30,LATIN,72526c37-806e-408d-9b37-3e8da4e2e32d,ryo shikamaru,male,-0.703462355,7.319817264,0.851731177,4,Positive
+230,ika jauhar,easy electronic parking,namsor_api_2.0.30,LATIN,57d864e6-3d98-4353-a7d7-1c4046706bb3,ika jauhar,female,0.381906761,4.437493281,0.69095338,4,Positive
+231,infoponorogo,nan,namsor_api_2.0.30,LATIN,17fcebd9-1486-41d5-946e-10e268c4e554,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+232,infoponorogo,The reason it's cheating is just not paying the right rate,namsor_api_2.0.30,LATIN,94bd06dd-271d-413d-98a0-517aed218ffc,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-7,Negative
+233,ryssangpratama,I don't understand why connecting at 8 in the morning is waiting for the stop sign at the night transportation service,namsor_api_2.0.30,LATIN,b9f9acf4-c152-40ce-aed5-b6b830a594e2,ryssangpratama,female,0.060295055,0.478149059,0.530147527,-4,Negative
+234,infoponorogo,Hope the adjustment goes smoothly,namsor_api_2.0.30,LATIN,59b796b2-1d02-4dbf-a5c6-8b31efebe3d1,infoponorogo,male,-0.377713264,3.954005691,0.688856632,5,Positive
+235,infoponorogo,nan,namsor_api_2.0.30,LATIN,54ebf072-35f2-4024-a309-b04b509a1184,infoponorogo,male,-0.377713264,3.954005691,0.688856632,0,Neutral
+236,infoponorogo,Get ready electronics team bro,namsor_api_2.0.30,LATIN,bddde762-bb0d-4be0-b3b9-778ba095faa0,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-4,Negative
+237, anandaayuu  ,"Jane eparking is suitable for special parking in malls, convenience stores, markets, suitable for open parking on the side of the road, complicated manuals, lots of naughty carers are confused",namsor_api_2.0.30,LATIN,36491e3c-5e11-47dc-8150-9c707dc73063, anandaayuu  ,male,-0.053859898,0.206436056,0.526929949,-9,Negative
+238,infoponorogo,"cross engineering, yes, the main square event went smoothly",namsor_api_2.0.30,LATIN,766a848e-43fd-4a54-b8da-6edbb6b7fe82,infoponorogo,male,-0.377713264,3.954005691,0.688856632,6,Positive
+239,infoponorogo,"Hooh, really, what's the parking manual team like, bro?",namsor_api_2.0.30,LATIN,56417236-3c88-4309-80fa-3238230f938d,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-1,Negative
+240,ryo shikamaru,"Did you know that 2000 was crossed out by 2,3000?",namsor_api_2.0.30,LATIN,e9b19572-5ba2-40f5-8355-9ec1113f9332,ryo shikamaru,male,-0.703462355,7.319817264,0.851731177,-4,Negative
+241,infoponorogo,forget where,namsor_api_2.0.30,LATIN,bb60f91b-fc0a-4b1c-830b-f326ad825149,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-2,Negative
+242,abyanep,Tomorrow,namsor_api_2.0.30,LATIN,75eb220e-b0fd-4612-a398-2e31d2ef9171,abyanep,male,-0.372906241,3.58494814,0.686453121,0,Neutral
+243,pfs 00 ,nice eparking,namsor_api_2.0.30,LATIN,a96c1c89-a2f3-46cf-9a6a-a03004b86417,pfs 00 ,male,-0.373890414,3.650667028,0.686945207,-2,Negative
+244,ika jauhar,nan,namsor_api_2.0.30,LATIN,187d7b58-e191-437f-a2b6-d7e5e0ed8d33,ika jauhar,female,0.381906761,4.437493281,0.69095338,0,Neutral
+245,musyaffa   ,dangerous,namsor_api_2.0.30,LATIN,3de61402-f305-4b75-9c67-b5b7231535fe,musyaffa   ,male,-0.412416812,5.125856168,0.706208406,-4,Negative
+246,infoponorogo,okay bro,namsor_api_2.0.30,LATIN,144f16d9-b70a-4882-99cb-9d4d115948b1,infoponorogo,male,-0.377713264,3.954005691,0.688856632,2,Positive
+247,infoponorogo,electronic manual team,namsor_api_2.0.30,LATIN,ff8a1c36-69b4-4ccb-8b9c-f9e396feb42a,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-4,Negative
+248,infoponorogo,danger,namsor_api_2.0.30,LATIN,efe6493e-a277-4bc5-b2dc-a1c0a26e6add,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-5,Negative
+249,infoponorogo,"OK, the electronics team is the reason",namsor_api_2.0.30,LATIN,0333cd65-f013-4ed0-9714-b94043236998,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-2,Negative
+250,syahrulsatriaw,It's up to you to arrange eating at the gate,namsor_api_2.0.30,LATIN,29935368-3ef6-41d4-b144-8fa03e7e2938,syahrulsatriaw,male,-0.33450438,2.84058594,0.66725219,-7,Negative
+251,nizarkurangturu ,paid school parking,namsor_api_2.0.30,LATIN,d0f610cc-1ca6-409a-9788-9e80553a45ae,nizarkurangturu ,male,-0.070174327,0.936817318,0.535087163,2,Positive
+252,infoponorogo,gate where select electronic manual,namsor_api_2.0.30,LATIN,5b7db389-3181-4896-ab29-0554cd0027ac,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-6,Negative
+253,musyaffa   ,illegal parking,namsor_api_2.0.30,LATIN,611f9ad7-72e2-4001-9b08-f88ec2023a12,musyaffa   ,male,-0.412416812,5.125856168,0.706208406,1,Positive
+254,infoponorogo,cash,namsor_api_2.0.30,LATIN,6e2c748c-02c3-4085-8514-9885ac7c28c7,infoponorogo,male,-0.377713264,3.954005691,0.688856632,3,Positive
+255,infoponorogo,I think it's the wrong parking reason,namsor_api_2.0.30,LATIN,a985143c-d0ef-47b4-936c-0899a841725b,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-3,Negative
+256,pfs 00 ,"eparking friends, it's easy to pay using money, tap a card, hygienic, orderly, pay the parking area, income is paid monthly, understand podoãâãâ² Users of the Ponorogo Regency government's car parking services carry it out, socialize the community, signs suddenly wait for the incident, road signs are repaired, the land route disappears, fades, change your anger",namsor_api_2.0.30,LATIN,558e185a-3665-4411-abbe-2e3bb1759fa2,pfs 00 ,male,-0.373890414,3.650667028,0.686945207,-6,Negative
+257,ragasugeng  ,Yayat caught the error,namsor_api_2.0.30,LATIN,b940a1e9-3156-49eb-9500-2f96121061ac,ragasugeng  ,male,-0.05622024,0.304704145,0.52811012,-5,Negative
+258,mast echooooooo,better manual quickly,namsor_api_2.0.30,LATIN,09672ed1-dc15-41ea-8e29-b0ea8ea84389,mast echooooooo,male,-0.363774512,3.315245709,0.681887256,-1,Negative
+259,infoponorogo,"heh, the 2nd parking lot is held by Roy's friend and Agus's men",namsor_api_2.0.30,LATIN,a922cc0f-c5a3-46ce-88ee-a227800a35b2,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-4,Negative
+261,infoponorogo,okay manual team,namsor_api_2.0.30,LATIN,4879df21-4362-4a68-827e-c8f9c87fe2b0,infoponorogo,male,-0.377713264,3.954005691,0.688856632,-2,Negative
+262,infoponorogo,naaaaah the trials are evaluated,namsor_api_2.0.30,LATIN,6acebe52-8235-4fb3-aaa3-6d1d4bff6a4f,infoponorogo,male,-0.377713264,3.954005691,0.688856632,2,Positive
+263,febrybiwara,"eh sik sik the income is paid, understand",namsor_api_2.0.30,LATIN,9a7b58fd-0e42-4cab-b566-26f084ad3572,febrybiwara,male,-0.061783756,0.5431818,0.530891878,0,Neutral
+264,infoponorogo,test still results,namsor_api_2.0.30,LATIN,928c0b3d-b50f-4bf0-8a82-49d2dc590ffb,infoponorogo,male,-0.377713264,3.954005691,0.688856632,3,Positive
+265,mosya  0,It's convenient that parking doesn't pay and the government pays for parking,namsor_api_2.0.30,LATIN,53c43447-8e6c-4943-b939-05e8abd5be42,mosya  0,female,0.489932211,5.963836285,0.744966105,5,Positive
+266,rmzlahmad dr,"Min, if I report on the construction of the village road, I just need to see the village build the village road",namsor_api_2.0.30,LATIN,913e942a-4709-472f-a622-eeb20000902a,rmzlahmad dr,male,-0.37756721,3.940642672,0.688783605,0,Neutral
+267,mast echooooooo,support manual parking attendants,namsor_api_2.0.30,LATIN,24892d32-4e1c-4cff-a20c-301c68e9f377,mast echooooooo,male,-0.363774512,3.315245709,0.681887256,3,Positive
+268,tatik mujiarti,made difficult made easier,namsor_api_2.0.30,LATIN,b3df88f6-11d3-44e4-93c4-b6a396bf83a2,tatik mujiarti,female,0.325450418,2.741539292,0.662725209,0,Neutral
+269,ramangabdulazis,plebeian,namsor_api_2.0.30,LATIN,2d3dff10-334a-4857-aca5-8e2ca4a32140,ramangabdulazis,male,-0.336565729,2.864406296,0.668282864,-5,Negative
+270,marissasr ,barracks boss,namsor_api_2.0.30,LATIN,218b1e42-a42f-43f8-aa79-d1ae5136026a,marissasr ,male,-0.076678042,1.158795438,0.538339021,3,Positive
+271,andika dbh,"Technology surpasses common sense in 2023. Take care of rural office letters, photocopy EKTP parking using electronics",namsor_api_2.0.30,LATIN,340314f9-7749-4954-8c2f-3b3c876d35ee,andika dbh,male,-0.064967267,0.686310084,0.532483633,7,Positive
+272,ragiel mangku langit,Hopefully the lost parking will be replaced by 100 hehe,namsor_api_2.0.30,LATIN,8404f5fe-be10-4bb9-b59a-79b0936ba073,ragiel mangku langit,male,-0.76278651,7.808894387,0.881393255,-1,Negative
+273,arin    ,interested in visiting you,namsor_api_2.0.30,LATIN,8b25789f-1d12-440a-a932-2a02ac73abb7,arin    ,female,0.057513195,0.359128998,0.528756598,2,Positive
+274,herysusantu,handle urgent matters,namsor_api_2.0.30,LATIN,49d79c8e-74ba-4ae3-920b-9b3e743a04aa,herysusantu,female,0.059066282,0.425214368,0.529533141,-4,Negative
+275,nadflix jv,electronic money,namsor_api_2.0.30,LATIN,9d5d2b9c-f480-4571-821b-73b62a8423a2,nadflix jv,male,-0.419522012,5.228987056,0.709761006,0,Neutral
+276,optik tasikmalaya,manually,namsor_api_2.0.30,LATIN,6869c3aa-bd35-43a1-b7f4-c58abb919156,optik tasikmalaya,male,-0.404365985,4.949267387,0.702182992,0,Neutral
+277,erikwahyudy,enthusiastic,namsor_api_2.0.30,LATIN,b94b259d-0c7c-4bd3-88f6-f1c997cfbc52,erikwahyudy,male,-0.146214134,1.407634729,0.573107067,-1,Negative
+278,eline xiandhia,followed up fairly,namsor_api_2.0.30,LATIN,0d5e2ffd-d889-497d-80ba-0615f34bd2d0,eline xiandhia,female,0.700084914,7.297414887,0.850042457,1,Positive
+279,hanifahlayli,"willing to spend a thousand thousand for parking, people cheated on eparking equipment proposals to find the money",namsor_api_2.0.30,LATIN,3bce776a-f671-46ae-ad77-e4d99cf6762d,hanifahlayli,female,0.058829129,0.415067392,0.529414565,0,Neutral
+280,zazux yeye,free parking convenience opinion,namsor_api_2.0.30,LATIN,fed768d8-4e9b-47f3-912f-a1eec6010289,zazux yeye,male,-0.082460823,1.178232065,0.541230411,9,Positive
+281,dikaambarani baru tahun  000,"Thank God, I'm enthusiastic about paying for eparking, thank you waalaikumsalam",namsor_api_2.0.30,LATIN,897ad1d7-fc37-4c7e-91e1-31e52ac5a996,dikaambarani baru tahun  000,male,-0.385343589,4.59677063,0.692671794,9,Positive
+282,adityaanakbaik ,slows down work,namsor_api_2.0.30,LATIN,d1aa27ea-afc6-4fc6-a47b-bc4f1729a043,adityaanakbaik ,male,-0.360007108,3.23905866,0.680003554,2,Positive
+283,humairasyaharani,"good opinion, parking proceeds are directly deposited into the APBD for advanced Ponorogo development",namsor_api_2.0.30,LATIN,dc950b7a-ec86-4365-9b08-34f47c6fe9de,humairasyaharani,male,-0.074009546,1.14023037,0.537004773,5,Positive
+284,ari plastik,buy modern equipment to repair potholes,namsor_api_2.0.30,LATIN,b00655ba-c666-4efc-b442-c9e84d8cb44b,ari plastik,male,-0.380471123,4.245359342,0.690235562,-1,Negative
+285,alistaavs,ebesss,namsor_api_2.0.30,LATIN,daf20689-0630-4ecc-84a4-8c893204c987,alistaavs,male,-0.221457117,1.727882064,0.610728558,0,Neutral
+286,rudhie xa,netizens dare to criticize haha,namsor_api_2.0.30,LATIN,fad8926b-98e6-49af-9f42-d01753fb520a,rudhie xa,male,-0.580026588,6.550514467,0.790013294,0,Neutral
+287,verane imam,mad at you bro,namsor_api_2.0.30,LATIN,30098357-4657-4fff-b0d5-e8f56c34ad20,verane imam,female,0.437573274,5.55116948,0.718786637,-5,Negative
+288,rudhie xa,continue,namsor_api_2.0.30,LATIN,ae10797d-5f1d-4c6b-9975-6d7d4e09239f,rudhie xa,male,-0.580026588,6.550514467,0.790013294,1,Positive
+289,didik wijaya,"So busy, why is it so fast, there's no traffic jams, no commuting",namsor_api_2.0.30,LATIN,acea5657-cc04-4031-b19f-491d3149e7f9,didik wijaya,male,-0.570867351,6.505687968,0.785433675,-1,Negative
+290,regytaaprylia,Gacoan parking refund,namsor_api_2.0.30,LATIN,69fd70a6-8dff-4a65-b188-4df4e7910032,regytaaprylia,female,0.07077813,0.967586403,0.535389065,-1,Negative
+291,ekomentaro,2000py 500010000,namsor_api_2.0.30,LATIN,96fc987a-eb69-4d54-a354-7dbbe81507b4,ekomentaro,male,-0.306211443,2.555872854,0.653105721,0,Neutral
+292,ekomentaro,"Special city land, special land, difficult for houses, etc. Are you willing to park at the Kodim field for the event in the town square",namsor_api_2.0.30,LATIN,dc37be22-7678-4b7e-a136-7e463140e13c,ekomentaro,male,-0.306211443,2.555872854,0.653105721,6,Positive
+293,verane imam,told the rule is 1000 return pay 5000 push to reach 5000 parking,namsor_api_2.0.30,LATIN,877bc0bc-39df-42e4-936e-bcb6f165eb0a,verane imam,female,0.437573274,5.55116948,0.718786637,-2,Negative
+294,ekomentaro,tired of transporting it costs the transporter,namsor_api_2.0.30,LATIN,508611fa-99fb-4c0e-a81a-deffcea99e15,ekomentaro,male,-0.306211443,2.555872854,0.653105721,1,Positive
+295,ekomentaro,given the answer the lion was thousands willing to pay for parking,namsor_api_2.0.30,LATIN,a6783343-9a16-4780-b71d-3f363d0c779f,ekomentaro,male,-0.306211443,2.555872854,0.653105721,-1,Negative
+296,verane imam,"5000 events, the compact motorbike crashed into it, sorry it's short",namsor_api_2.0.30,LATIN,f55dfa4e-34a7-4b1f-9d64-5d43e111fb40,verane imam,female,0.437573274,5.55116948,0.718786637,-2,Negative
+297,verane imam,think,namsor_api_2.0.30,LATIN,cb7d49d4-c75f-4d05-a760-a410e5e74425,verane imam,female,0.437573274,5.55116948,0.718786637,0,Neutral
+298,ekomentaro,aji while mak uses the law changes depending on the situation,namsor_api_2.0.30,LATIN,693f5fd0-e7d9-4376-9128-c2af960ad2d6,ekomentaro,male,-0.306211443,2.555872854,0.653105721,3,Positive
+299,verane imam,"the regulations are taken care of, free parking, the land owner of Pizza Hut provides legal regulations, the land owner pays taxes worth 2,000, sometimes it is sold for 5,000",namsor_api_2.0.30,LATIN,5989e3de-cc76-40bd-aea7-85578ced673d,verane imam,female,0.437573274,5.55116948,0.718786637,12,Positive
+300,ekomentaro,"the purpose of the eparkir post is to arrange parking so you don't think about it, alunalun, sometimes you buy stupid clothes, go to shop a, shop b, shop c, alunalun according to your choice of clothes, etc. call me, park, sometimes go home, look for it, please pay",namsor_api_2.0.30,LATIN,a9bdf0c5-be72-4be4-880f-995d19160fd8,ekomentaro,male,-0.306211443,2.555872854,0.653105721,4,Positive
+301,verane imam,e parkingo pay mas people think shop a b c d clothes found pay 1000 peng basically fold the car,namsor_api_2.0.30,LATIN,2995ab92-7d1d-44c3-91a8-210e60d8a2a2,verane imam,female,0.437573274,5.55116948,0.718786637,-3,Negative
+302,irvanwahyuuu ,"To use Emoney, just tap and use the QR code",namsor_api_2.0.30,LATIN,642670e7-4367-4094-be3d-ab24732ee4bd,irvanwahyuuu ,male,-0.33576868,2.855135792,0.66788434,-4,Negative
+303,ekomentaro,"haha If you don't pay, it means that with electronic parking, it's more orderly to pay 2000 2000, your machine is detected, right?",namsor_api_2.0.30,LATIN,a001b968-7037-4bde-b5b0-342774d40abd,ekomentaro,male,-0.306211443,2.555872854,0.653105721,3,Positive
+304,verane imam,"land friends pay parking fees, example of a flexible PCC poper holiday, land is valuable, the point is that it eliminates the risk, people donate 1,000 rupiah parking, give 1,000 people are angry, just give 2,000 parking",namsor_api_2.0.30,LATIN,87254f50-6d05-4ddb-a110-6a36d7f60e48,verane imam,female,0.437573274,5.55116948,0.718786637,4,Positive
+305,noxers noxx,nan,namsor_api_2.0.30,LATIN,bbf3f355-5283-4636-912c-57c8a4feb31c,noxers noxx,male,-0.068659312,0.861363007,0.534329656,0,Neutral
+306,dicko armadona  ,in accordance,namsor_api_2.0.30,LATIN,5b607acf-ba8d-41f8-8c93-7270e70ee5ec,dicko armadona  ,male,-0.345525623,2.987671575,0.672762812,3,Positive
+307,sate gule kambing bhayangkara,"square, yes, implement electronic parking",namsor_api_2.0.30,LATIN,027a9a02-b603-4942-9ac4-d9e903bcedb7,sate gule kambing bhayangkara,female,0.049187081,0.014342003,0.52459354,5,Positive
+308,ekomentaro,"the land is discussed, the relationship is discussed, yes, the relationship is with the local government, wak yo, parking on Jl",namsor_api_2.0.30,LATIN,f05c5d53-e3c3-4827-8469-8de6d287bada,ekomentaro,male,-0.306211443,2.555872854,0.653105721,5,Positive
+309,noismaaa,think the request is beyond reason bmkg,namsor_api_2.0.30,LATIN,ba435e85-0aab-4d32-85e1-b0f321bd1968,noismaaa,female,0.049539952,0.028794776,0.524769976,0,Neutral
+310,noismaaa,walking field parking destination request reason bmkg the land is full house,namsor_api_2.0.30,LATIN,24a37140-5377-45d7-87a6-81f476fd12c3,noismaaa,female,0.049539952,0.028794776,0.524769976,4,Positive
+311,triendahokta,"Agree, it's useful to buy materials, sometimes the shop is empty, move shop, pay for parking, find the item you are looking for",namsor_api_2.0.30,LATIN,de854f8f-3059-481d-b72c-99db85a1ba2f,triendahokta,female,0.049165458,0.013456452,0.524582729,-6,Negative
+312,yunizu  ,move country,namsor_api_2.0.30,LATIN,3b6a0ebb-2af6-46cb-b37d-d88b463833cd,yunizu  ,female,0.050713671,0.076897536,0.525356835,-2,Negative
+313,chandraperdanputra,bothering to comment makes sense keep quiet,namsor_api_2.0.30,LATIN,98081db2-e3a2-4343-a18d-a88c4773620d,chandraperdanputra,female,0.060699483,0.495712867,0.530349742,-5,Negative
+314,hr kenn,sui sui kno e toilet,namsor_api_2.0.30,LATIN,caa1c4e5-4976-48c5-a9f6-7a391d45efec,hr kenn,male,-0.400141828,4.859764765,0.700070914,0,Neutral
+315,nabilaputri 0  ,bring 2 thousand cash,namsor_api_2.0.30,LATIN,7f85e40e-8eb9-40fb-8298-f8964332f3e9,nabilaputri 0  ,female,0.150713445,1.425045986,0.575356723,-2,Negative
+316,istaurini  ,pedestrian sidewalk function,namsor_api_2.0.30,LATIN,39b2b6eb-d5f4-4c50-a69c-acd9892aba45,istaurini  ,female,0.067411182,0.800899163,0.533705591,0,Neutral
+317,sugenghidayat  ,"The name of the jukir is Berek, which is confusing for you to learn",namsor_api_2.0.30,LATIN,d0dde2eb-21cf-405d-b75b-0c370d8f20a0,sugenghidayat  ,male,-0.261441979,2.129463954,0.63072099,0,Neutral
+318,algaaarion,pay cash,namsor_api_2.0.30,LATIN,285cd42a-56e5-4fbc-bd21-7b9270f480e4,algaaarion,male,-0.269559361,2.229729887,0.634779681,0,Neutral
+319,srimaharani   0,Sorry for digressing from the topic of info on stretch mark removal drugs,namsor_api_2.0.30,LATIN,06a5616b-8da7-4467-bb6b-dc48ebb3a98b,srimaharani   0,female,0.115846603,1.294623639,0.557923301,-9,Negative
+320,eka andriana  ,dear Allah,namsor_api_2.0.30,LATIN,6596cca4-7b98-4a18-8834-c151d61e9f48,eka andriana  ,female,0.793069692,8.139120011,0.896534846,9,Positive
+321,ridwanardiansah,park your friend's truck and stop the road,namsor_api_2.0.30,LATIN,9d0eed48-8f20-40f8-8e4f-5b4a124d2700,ridwanardiansah,male,-0.303660679,2.533347402,0.65183034,2,Positive
+322,denikochi,"If you pay using a DC device, pay manually, yes, it's a lie using a card",namsor_api_2.0.30,LATIN,2fd7aae6-68bf-4a44-a386-9d2b8c47391c,denikochi,male,-0.068624466,0.859655104,0.534312233,-4,Negative
+323,ayokkoya,Tried manual electronic ticketing,namsor_api_2.0.30,LATIN,86500cf8-1e95-40d3-8e17-f1e7ab8159ce,ayokkoya,female,0.063381546,0.614254537,0.531690773,0,Neutral
+324,herypurnama  ,predictable ending,namsor_api_2.0.30,LATIN,3f7af168-0eb7-4ca5-b765-c73f9e21f301,herypurnama  ,female,0.0738383,1.130703376,0.53691915,0,Neutral
+325,lilikteja,"Try the product, it really works for severe stretch marks, regular use of stretch marks ma'am",namsor_api_2.0.30,LATIN,13afe33a-d05f-49b5-8fa0-513683b595cb,lilikteja,female,0.318092694,2.666956626,0.659046347,3,Positive
+326,gendondjadoel,e parking is a must,namsor_api_2.0.30,LATIN,e698e7fa-5525-4d05-91f8-8705587076fe,gendondjadoel,male,-0.372158969,3.537643221,0.686079484,1,Positive
+327,hallondhy,opposite pizzahut car park for 10 thousand,namsor_api_2.0.30,LATIN,7a6ac477-fd73-43bb-b79e-0d3b85e37bd9,hallondhy,male,-0.068504403,0.853779438,0.534252201,-1,Negative
+328,fatmaannisaaa,keep going okay,namsor_api_2.0.30,LATIN,ca6a2f9e-616e-4131-a7ac-49bbe0c300b2,fatmaannisaaa,male,-0.057640644,0.364521054,0.528820322,1,Positive
+329,aldhebilla,really effective at doing it,namsor_api_2.0.30,LATIN,4aa1d04f-32e9-482e-a487-d42369658d75,aldhebilla,female,0.16379062,1.476737805,0.58189531,0,Neutral
+330,miyano sherry  ,hla iyo lo how about the old jukir for example what about my father,namsor_api_2.0.30,LATIN,6cab9c19-2e63-45bf-a02a-2d6a44167290,miyano sherry  ,female,0.068684759,0.862611001,0.534342379,0,Neutral
+331,celine itssclinee,Poor old jukir understands,namsor_api_2.0.30,LATIN,18ac0f2d-422c-4634-8589-5d88809f7793,celine itssclinee,female,0.71530973,7.402616913,0.857654865,-3,Negative
+332,taufabella,"Yes, I agree that the parking fee is sometimes refunded",namsor_api_2.0.30,LATIN,59dfae9e-e750-4a76-8453-df2d378cf764,taufabella,female,0.07201016,1.031733762,0.53600508,8,Positive
+333,rahmawati nursya,"Yes, yes, ma'am, BPOM is definitely an effective birthmark product that fades and disappears",namsor_api_2.0.30,LATIN,29a525df-f9e3-4c64-9109-b01e119cba51,rahmawati nursya,female,0.436793223,5.534898761,0.718396611,7,Positive
+334,ddddeviftr  ,sek sek pay using qris,namsor_api_2.0.30,LATIN,160d7fe4-641a-40a0-9e6b-0129a37bb424,ddddeviftr  ,male,-0.26127017,2.127425652,0.630635085,0,Neutral
+335,wafiqul az,funny,namsor_api_2.0.30,LATIN,975d9152-5018-4298-9514-d0752b6ae2c8,wafiqul az,male,-0.120394369,1.311080223,0.560197184,1,Positive
+336,gustavianooo,tax officers' pockets,namsor_api_2.0.30,LATIN,4aa363ff-8e26-40e6-9949-6f3a58fc4f6a,gustavianooo,male,-0.381472308,4.375463172,0.690736154,-5,Negative
+337,lilikteja,"Yes, ma'am, BPOM is an effective product that fades away birthmarks",namsor_api_2.0.30,LATIN,e909a9a2-3724-4e67-b465-9cbeaedfa31b,lilikteja,female,0.318092694,2.666956626,0.659046347,11,Positive
+338,hanisramadhani,Pay using QRIS Emoney card,namsor_api_2.0.30,LATIN,d0b17081-3da7-4ec8-adcd-3a7aa5b2a92b,hanisramadhani,male,-0.056888199,0.332759911,0.528444099,-2,Negative
+339,awang medyna 0,"think of a wide parking tool, left of the road, right of the narrow road, waiting for the sidewalk, roadside parking",namsor_api_2.0.30,LATIN,7602b61a-7a53-42f4-b234-9e20f2e86853,awang medyna 0,female,0.36161635,3.270945851,0.680808175,-9,Negative
+340,sutokoima,bought a parking boro2 toy for 5000,namsor_api_2.0.30,LATIN,72fc4ec8-6ab1-4090-b7e4-c5694545d02f,sutokoima,female,0.100178403,1.239071145,0.550089201,0,Neutral
+341,wardoyo setiyo  ,people pay pad pad,namsor_api_2.0.30,LATIN,e41fea74-aaac-4bd5-9187-a9b6876ee11a,wardoyo setiyo  ,male,-0.404251789,4.946741019,0.702125895,-2,Negative
+342,nikoandika 0  ,"Most of the funding for the construction of the Reog Monument, the government is looking for funds for GT roads, using eparking, allocating parking space on the side of the GT road.",namsor_api_2.0.30,LATIN,5846bfc8-f703-4b28-8148-c7e4ec0c40d8,nikoandika 0  ,female,0.363797134,3.315719862,0.681898567,3,Positive
+343,yusron atsani,"OK, continue",namsor_api_2.0.30,LATIN,529d35b3-cb35-4154-bbb8-6391b649e5eb,yusron atsani,male,-0.709527061,7.361346934,0.854763531,1,Positive
+344,ercikamc,"Come on, come on, it's normal for Ponorogo's turn to follow",namsor_api_2.0.30,LATIN,6f11b1f6-b614-4472-a49a-9bec790fbaa3,ercikamc,male,-0.346419681,3.00163031,0.67320984,10,Positive
+346,eline xiandhia,"Arranged by parking attendant, given 1000 2000 2000 returned 5000",namsor_api_2.0.30,LATIN,1761de33-8b47-46fe-a726-e9fc831afb0e,eline xiandhia,female,0.700084914,7.297414887,0.850042457,1,Positive
+347,mrluckym n,cash up payment,namsor_api_2.0.30,LATIN,5dc34a8b-8785-4945-86ea-fe456af7b39c,mrluckym n,male,-0.073388915,1.105920637,0.536694458,3,Positive
+348,clarisalindaa,It's natural that one day the effect will continue in the future,namsor_api_2.0.30,LATIN,6042ddf6-a290-47ae-a2af-84d2dede352f,clarisalindaa,male,-0.068353554,0.846416806,0.534176777,-2,Negative
+349, agisz ,bad luck,namsor_api_2.0.30,LATIN,1e23cc46-a27f-4905-b5b2-9ef85ee24849, agisz ,female,0.050567345,0.070896917,0.525283672,0,Neutral
+350,yogiiprapmito,pizza hut slow parking 10 thousand 10 thousand times a hundred cars know the results,namsor_api_2.0.30,LATIN,8f8ccc98-7dd7-4558-93ab-d39e1cdc3297,yogiiprapmito,male,-0.074179836,1.149750716,0.537089918,-1,Negative
+351,elvandri rafsanjani,"The government talks to parking attendants taking their money, taking care of tidying up vehicles, directing vehicles to enter",namsor_api_2.0.30,LATIN,5234ad10-05c7-4039-b929-372a076073e7,elvandri rafsanjani,male,-0.126913131,1.334944588,0.563456565,-9,Negative
+352,optik tasikmalaya,adapt,namsor_api_2.0.30,LATIN,35953b9f-3335-44b3-89a3-47f6ee6d3c1d,optik tasikmalaya,male,-0.404365985,4.949267387,0.702182992,0,Neutral
+353,mutiaraya  ,"If parking is complicated, let's provide special parking facilities so you don't park on the side of the road. The solution is",namsor_api_2.0.30,LATIN,45715887-60bc-42c1-b9ac-f306170fb962,mutiaraya  ,female,0.276042263,2.313462294,0.638021132,-4,Negative
+354,wijaya heng,Leaking funds corrupts people the most,namsor_api_2.0.30,LATIN,d7871dc6-eeff-44e8-99aa-447c798faebb,wijaya heng,male,-0.434359662,5.485763004,0.717179831,0,Neutral
+355,wahidhariz  ,"street parking, street sales are solid",namsor_api_2.0.30,LATIN,2179b71e-c407-4742-8aa7-c06056db677f,wahidhariz  ,male,-0.216126962,1.702803319,0.608063481,7,Positive
+356,add zim,build a parking building boom gate secure center parking application passes the parking limit of 7 minutes brought parking,namsor_api_2.0.30,LATIN,61065531-b473-4092-ab8c-993bb4da13af,add zim,male,-0.661221498,7.070310639,0.830610749,3,Positive
+357,agungyuliyantonugroho,"Yes, it's clearly rejected, isn't additional income prone to extortion if it's extorted by thugs?",namsor_api_2.0.30,LATIN,230e31e4-fbe4-433e-bf4d-0a0727cd9232,agungyuliyantonugroho,male,-0.365204493,3.345636448,0.682602246,-4,Negative
+358,agungyuliyantonugroho,difficult to find when playing parking,namsor_api_2.0.30,LATIN,13827a9e-131c-415b-8445-f5bf5a016aa8,agungyuliyantonugroho,male,-0.365204493,3.345636448,0.682602246,3,Positive
+359, rjl ardi,slowly,namsor_api_2.0.30,LATIN,fae78e1d-7777-4d54-812f-0e094a439dbb, rjl ardi,male,-0.197370509,1.617835081,0.598685254,0,Neutral
+360,agungyuliyantonugroho,Sometimes the city is confused about widening the roads. The city is confused about narrowing the roads. Sometimes,namsor_api_2.0.30,LATIN,b4d08cdf-be32-4c9b-90c7-629f420cfc69,agungyuliyantonugroho,male,-0.365204493,3.345636448,0.682602246,5,Positive
+361,becakmesinmaniaponorogo,"Boss is sincere, at least according to the applicable provisions of the manual",namsor_api_2.0.30,LATIN,d5495481-8d89-449c-83aa-2b9dde8c73f3,becakmesinmaniaponorogo,male,-0.381396711,4.365042872,0.690698355,7,Positive
+362,becakmesinmaniaponorogo,"he drives sincerely, at least the law doesn't realize he's serious about driving a motorbike for 5000,000 around the square, willing",namsor_api_2.0.30,LATIN,4e82d5de-a054-494c-8e2b-9742ee06965a,becakmesinmaniaponorogo,male,-0.381396711,4.365042872,0.690698355,-5,Negative
+363,m iqbalprabowo ,Isn't it a hassle for many people?,namsor_api_2.0.30,LATIN,b5490beb-d296-40da-8d1e-669bc7451c37,m iqbalprabowo ,female,0.064481849,0.664077723,0.532240925,-6,Negative
+364,rofiah achmad,"Yes, sometimes I shop for parking needs",namsor_api_2.0.30,LATIN,e81ef723-9b5c-422e-a7df-0bc461c43974,rofiah achmad,female,0.235659651,1.854551856,0.617829825,8,Positive
+365,amruafa,strange yeah,namsor_api_2.0.30,LATIN,21e2f764-a9da-4dad-93eb-c55ba17734aa,amruafa,female,0.064794811,0.678393082,0.532397406,4,Positive
+366,verane imam,most of the 2000 parking steps are busy taking care of parking attendants taking care of collecting rubbish increasing income sweeping rattan taking care of roadside flowers doing,namsor_api_2.0.30,LATIN,c907a89f-04f7-4c02-adc8-ddc82e1e4912,verane imam,female,0.437573274,5.55116948,0.718786637,5,Positive
+367,yohan putrarakeri,lasts a long time,namsor_api_2.0.30,LATIN,10529242-2636-4920-93fc-20d89c48e2d1,yohan putrarakeri,male,-0.868640614,9.015824358,0.934320307,0,Neutral
+368,brurysayfullh,practice jukir,namsor_api_2.0.30,LATIN,6a613465-906e-45e4-a090-1b4fd60246ac,brurysayfullh,male,-0.069342196,0.895077268,0.534671098,-2,Negative
+369,zacky punk,"be patient, jukir",namsor_api_2.0.30,LATIN,ece07e5a-fc7c-4a26-863e-f12012d1966a,zacky punk,male,-0.375518065,3.769257193,0.687759033,9,Positive
+370,lia novitaaasari,"In today's technology, young people are sometimes confused about what parents need to study extra",namsor_api_2.0.30,LATIN,57407f55-9ce5-4478-a61a-2ca63a161693,lia novitaaasari,female,0.711686603,7.376560922,0.855843301,-2,Negative
+371,agungprihatmaja,I didn't deposit the money hahaha,namsor_api_2.0.30,LATIN,5344c238-b7d1-4d12-a8d4-4b99ffbb66ae,agungprihatmaja,female,0.062988567,0.596640508,0.531494284,0,Neutral
+372,tri pika  ,"Yes, it's quite paid, in my opinion, most of them are school age reading",namsor_api_2.0.30,LATIN,985020ac-977b-4469-a723-e9b2bdd2de2b,tri pika  ,male,-0.387721518,4.634713744,0.693860759,10,Positive
+373,galih wie0  ,the reason,namsor_api_2.0.30,LATIN,ec3607ae-ed77-4a18-8fb9-d2420d9f9e7b,galih wie0  ,male,-0.355304016,3.150910664,0.677652008,0,Neutral
+374,dhl info,Good,namsor_api_2.0.30,LATIN,f9412cc4-e3b4-4b07-9650-ab190c683904,dhl info,male,-0.242584653,1.922973391,0.621292326,-2,Negative
+375,tharrymunyill,Isn't the money complicated for 2 motorbikes and 1 motorbike?,namsor_api_2.0.30,LATIN,d96eed58-f6ac-4f9c-88d7-d0c2cf3b9efe,tharrymunyill,male,-0.136383585,1.370218849,0.568191793,-4,Negative
+376,ilove ponorogo,Good,namsor_api_2.0.30,LATIN,dd9fde35-6644-4ee3-b528-3c3a03b0a9ae,ilove ponorogo,male,-0.422860494,5.281334637,0.711430247,-2,Negative
+377,ilove ponorogo,right,namsor_api_2.0.30,LATIN,e8f05164-e1af-4961-a1f1-abc9aec55a54,ilove ponorogo,male,-0.422860494,5.281334637,0.711430247,0,Neutral
+378,zakariamahrez ,custom 2 thousand,namsor_api_2.0.30,LATIN,2a59eecd-8469-4d46-9592-ded7fac87817,zakariamahrez ,male,-0.323466015,2.720939888,0.661733007,0,Neutral
+379,evie r kusumawati ,"Yes, an old jukir is naturally old",namsor_api_2.0.30,LATIN,5e920295-186c-44ad-8085-d49a50bdb5d2,evie r kusumawati ,female,0.38860848,4.649235929,0.69430424,-6,Negative
+380,singgih dwi hs,easy to carry bag,namsor_api_2.0.30,LATIN,6756c19b-7390-46eb-8aa0-a084dbc8e385,singgih dwi hs,male,-0.293241738,2.445570993,0.646620869,3,Positive
+381,galery griya pusaka,shoplifting,namsor_api_2.0.30,LATIN,bec24b25-8cdf-4fc2-8d42-4b61ef6708ac,galery griya pusaka,male,-0.050401081,0.064080228,0.525200541,-4,Negative
+382,sulthon alhakim,get used to braking,namsor_api_2.0.30,LATIN,7ce15705-448f-4dcf-ba27-207fd58b118c,sulthon alhakim,male,-0.673652505,7.137510754,0.836826252,1,Positive
+383,ahmad   x,cowboy,namsor_api_2.0.30,LATIN,17598e25-b462-4d41-bb0f-3ab000c16a65,ahmad   x,male,-0.925283512,11.02785006,0.962641756,0,Neutral
+384,ponidi pamungkas,used to,namsor_api_2.0.30,LATIN,58f315ce-3061-430b-a3c0-9265d23138ee,ponidi pamungkas,male,-0.062235529,0.563134982,0.531117765,3,Positive
+386,mashelnasya,the cutest comments,namsor_api_2.0.30,LATIN,3c3b3e20-4ba3-49f3-9866-86e12071567f,mashelnasya,female,0.112827448,1.283783212,0.556413724,0,Neutral
+387,mhyshinta,continue parking really works to reduce illegal parking as long as you stop where you park your motorbike 2k you have to take the money let it move it says motorbike 1k pay 2k,namsor_api_2.0.30,LATIN,3632923c-540f-49cd-9bdd-d6c80d577b46,mhyshinta,female,0.300566706,2.506593167,0.650283353,-8,Negative
+389,jejaklangit  ,"Denny's MNC TV concert didn't borrow a motorbike, you know, I'm sorry, I'm annoyed",namsor_api_2.0.30,LATIN,345b1add-cd44-4e5c-991a-546065ee0757,jejaklangit  ,male,-0.354431929,3.135322816,0.677215965,-2,Negative
+390,jejaklangit  ,sorry for worrying about you parking my car pavilion charged 2000 crazy ticket how are you Indonesia is progressing hard tbsp,namsor_api_2.0.30,LATIN,e8bd84a3-0321-441f-b460-c9f429ad2ee9,jejaklangit  ,male,-0.354431929,3.135322816,0.677215965,-12,Negative
+391,rudirianto       0  ,the reason is that it is complicated to learn involved changing jobs changing jobs,namsor_api_2.0.30,LATIN,8411e34d-6ed5-4d09-a207-98150d4ff60d,rudirianto       0  ,male,-0.068679027,0.862329856,0.534339514,5,Positive
+392, raasgtiulti ,regeneration,namsor_api_2.0.30,LATIN,b27526ee-1fc2-4d91-ae80-cc107c067232, raasgtiulti ,male,-0.054517137,0.233679307,0.527258568,2,Positive
+393,kustyoriniaprilia,confusing parking road,namsor_api_2.0.30,LATIN,3dec6b39-5f72-443b-8abd-80f85880c87b,kustyoriniaprilia,female,0.069780627,0.916976056,0.534890313,1,Positive
+394,dhul  0bhajoel,complicated complicated difficult moving forward,namsor_api_2.0.30,LATIN,4829ed80-ae74-4886-8c7c-6becc5baa27b,dhul  0bhajoel,male,-0.870875339,9.050864119,0.93543767,-10,Negative
+395,bosnyaran co id,parking parking entrance,namsor_api_2.0.30,LATIN,7d79d94c-ca0c-4ab9-9063-19f2f2900317,bosnyaran co id,male,-0.377060604,3.895578317,0.688530302,-1,Negative
+396,itsmeolv ,Ben,namsor_api_2.0.30,LATIN,39206c3f-d496-423a-9fd6-d2a335ee1ba6,itsmeolv ,male,-0.28538144,2.383392836,0.64269072,0,Neutral
+397,bangkit dc  ,commented represented,namsor_api_2.0.30,LATIN,962ee7cd-4aac-4969-b8e4-94e76f5e33a5,bangkit dc  ,male,-0.598589561,6.648015067,0.79929478,0,Neutral
+399,faisagussetia,the parking attendant refused to pay the difference,namsor_api_2.0.30,LATIN,d0db37a4-9e4f-41d5-baea-6cd429881ef4,faisagussetia,female,0.066436785,0.754648554,0.533218392,-5,Negative
+400,mas acong ,yes the jukir changed it,namsor_api_2.0.30,LATIN,549762b8-2048-45a7-b652-2a07a229ce60,mas acong ,male,-0.519572966,6.177096894,0.759786483,4,Positive
+401,muhamd maghfur,The application tool is young and the quality of the HR is updated,namsor_api_2.0.30,LATIN,60f053a7-073b-49b2-8c5a-af35e108cf14,muhamd maghfur,male,-0.901307564,9.720318937,0.950653782,2,Positive
+402,nuryadi    ,pension,namsor_api_2.0.30,LATIN,240cbb72-4daa-4f4e-88cd-7500aa12f794,nuryadi    ,male,-0.439829236,5.599760349,0.719914618,-3,Negative
+403,nuryadi    ,unemployed workers,namsor_api_2.0.30,LATIN,26a6db73-5b5f-4c9b-a2d7-53137f3dbeec,nuryadi    ,male,-0.439829236,5.599760349,0.719914618,3,Positive
+404,misgiart,represented in reality,namsor_api_2.0.30,LATIN,5e274589-e543-4d7a-8c95-497d96de3f98,misgiart,male,-0.156181088,1.446457534,0.578090544,0,Neutral
+405,mas hakiem,People resist progress for complicated reasons,namsor_api_2.0.30,LATIN,4bfe640f-4fe4-4e4d-a5e7-70870ea13152,mas hakiem,male,-0.550592779,6.413058038,0.77529639,-9,Negative
+406,mbak hess,michellia308,namsor_api_2.0.30,LATIN,7c81eb00-b96d-44a8-b10c-40e458ee9f2d,mbak hess,female,0.04997057,0.046436057,0.524985285,0,Neutral
+407,feri bbwr    ,parking 2 thousand yesterday parking 3 thousand,namsor_api_2.0.30,LATIN,41ae1327-81ec-402a-a7df-0cca42815610,feri bbwr    ,female,0.263071209,2.148957408,0.631535604,2,Positive
+408,dickymhf,funny,namsor_api_2.0.30,LATIN,6ed72c9f-c75c-41fa-86e5-fb885e274890,dickymhf,male,-0.381563142,4.388125415,0.690781571,1,Positive
+409,yusyarifai,"I don't know, manual parking, shoplifting, electronic parking attendants, eating transparent tops, yes, it applies to parking motorbikes, cars, paying taxes, how come you pay parkingeeeehhh toooo",namsor_api_2.0.30,LATIN,314f024f-598d-421b-ba79-483dcac63282,yusyarifai,male,-0.06813126,0.835606392,0.53406563,4,Positive
+410,heeeennn,the community refused to accept the jukir,namsor_api_2.0.30,LATIN,42876ec4-8c3f-433f-8b95-a3f17271496e,heeeennn,male,-0.067278879,0.794572292,0.533639439,-8,Negative
+412,awan prastowo,gassss,namsor_api_2.0.30,LATIN,6a97799e-88ee-4cae-885f-9c250610be77,awan prastowo,male,-0.659977341,7.061235674,0.829988671,0,Neutral
+413,m anwar fauzi,complicated talk is thrown away,namsor_api_2.0.30,LATIN,16a9edd3-ace5-489f-aaac-0f3ccccc6205,m anwar fauzi,male,-0.381596757,4.392851297,0.690798378,-12,Negative
+414,wahyu listio,difficult to learn manually,namsor_api_2.0.30,LATIN,93fed32a-254b-4336-aafb-66127caa4eff,wahyu listio,male,-0.380754311,4.28051982,0.690377155,3,Positive
+415,hmadsy   ,agree to do it together,namsor_api_2.0.30,LATIN,3dad2b68-7e54-4be7-851f-b2cf23a5001b,hmadsy   ,male,-0.07201638,1.032062515,0.53600819,1,Positive
+416,enytamufidh,"10,000 house parking stolen pocket money",namsor_api_2.0.30,LATIN,10b4d507-1c6a-4906-8d47-e9d118e42fd7,enytamufidh,male,-0.049082276,0.010049823,0.524541138,4,Positive
+417,enytamufidh,Located in the Latans yard on Jalan Hos,namsor_api_2.0.30,LATIN,13ac12c5-1fa2-41e1-89c7-a8c265bf097d,enytamufidh,male,-0.049082276,0.010049823,0.524541138,0,Neutral
+418,garasi bangyos,Turn backwards if a motorbike passes you,namsor_api_2.0.30,LATIN,4030b185-7fe7-42c1-907a-f418e709c074,garasi bangyos,male,-0.541649041,6.371761587,0.770824521,0,Neutral
+419,mia rahayu0 ,Use eparking to pay for the motorbike,namsor_api_2.0.30,LATIN,1aab9ba5-90d8-4145-afda-d8baba7550be,mia rahayu0 ,female,0.415410652,5.168036645,0.707705326,-2,Negative
+420,ferysetiawanbs   ,the motorbike is upside down,namsor_api_2.0.30,LATIN,f697cc96-366b-44b9-a19c-4d55d00fe303,ferysetiawanbs   ,male,-0.17841195,1.536595711,0.589205975,4,Positive
+421,jenihendra,sometimes pay 5 thousand reasons,namsor_api_2.0.30,LATIN,8bde0a9d-001e-41db-897f-11e2351d5cab,jenihendra,female,0.052784907,0.162035901,0.526392453,0,Neutral
+422,cinocaramel,"yesterday's mosque parking was slow for the 5k gymnastics event, parking tickets",namsor_api_2.0.30,LATIN,4ccf171b-2b5b-4f2b-8775-a4ccec756226,cinocaramel,male,-0.37122586,3.48400988,0.68561293,3,Positive
+423,ratu jagal,continue parking ãâã¢ââ¦ leave the pads alone,namsor_api_2.0.30,LATIN,c2677bb5-302b-4219-8c64-19e450a9e973,ratu jagal,male,-0.366189988,3.367093128,0.683094994,0,Neutral
+424,escoklatcokot hoscokroaminoto,"The jukir deposits it with the transportation service, the interest on the deposit is fixed",namsor_api_2.0.30,LATIN,8ec4e4e8-41cb-454f-ac1d-b7a17d211a07,escoklatcokot hoscokroaminoto,male,-0.276285861,2.31523607,0.63814293,0,Neutral
+425,nurrofi mahmuda,the learning process is slow complaining,namsor_api_2.0.30,LATIN,1cda2771-5a82-4c5d-bad3-4327f76b8fe7,nurrofi mahmuda,female,0.082657893,1.178897964,0.541328947,2,Positive
+426,s roni0 ,"The parking lot is very busy, even though it's a city parking lot",namsor_api_2.0.30,LATIN,9ba5ffc8-440b-48ca-b5e6-2670b36745fc,s roni0 ,male,-0.059240267,0.432672326,0.529620133,0,Neutral
+427,itss silviyuse,"Yes, ma'am, the official account is the deposit, regional income increased. Parking at yesterday's event was expensive for official parking attendants",namsor_api_2.0.30,LATIN,0b0954cd-cdb0-4e96-b48c-c25d82166c20,itss silviyuse,female,0.246496642,1.963219879,0.623248321,8,Positive
+428,itss silviyuse,"pie ale ma'am, the jukir person pays the deposit",namsor_api_2.0.30,LATIN,fe434281-46d9-4bf4-86c3-1545b0f2a826,itss silviyuse,female,0.246496642,1.963219879,0.623248321,-2,Negative
+429,itss silviyuse,the deposit is according to what the transportation department said,namsor_api_2.0.30,LATIN,d21c9532-009d-4622-ada8-b2a88c014cb2,itss silviyuse,female,0.246496642,1.963219879,0.623248321,3,Positive
+430,faisagussetia,ummm no comment bro rejected,namsor_api_2.0.30,LATIN,228b2127-ab7d-466e-b926-0b728a982c85,faisagussetia,female,0.066436785,0.754648554,0.533218392,-4,Negative
+431,dana pradan,the payment is paid income,namsor_api_2.0.30,LATIN,26126dbd-2ac3-483c-8cd1-b3c6b2b036bf,dana pradan,female,0.395787869,4.775089941,0.697893934,3,Positive
+432,itss silviyuse,The transportation department was paid and the office had a deposit to find it,namsor_api_2.0.30,LATIN,4ec8605d-f166-426b-b08a-475184b0c4b9,itss silviyuse,female,0.246496642,1.963219879,0.623248321,3,Positive
+433,dana pradan,Okay,namsor_api_2.0.30,LATIN,3151b66c-3dcc-4e9d-ab42-60175a65cf25,dana pradan,female,0.395787869,4.775089941,0.697893934,2,Positive
+434,marin marko,"thank you, roadside park, host road, payment rate is 5000 entry, 2000 eparking is enforced in anticipation of jukir levies",namsor_api_2.0.30,LATIN,33914b17-10bf-41e6-bd1d-849e5cdac57c,marin marko,female,0.32503735,2.737220563,0.662518675,-3,Negative
+435,rifadno,alunalun 3k,namsor_api_2.0.30,LATIN,a3ba9e0a-63ae-42a1-b14e-e4eeb22deaff,rifadno,male,-0.295707707,2.465765178,0.647853853,0,Neutral
+436,michellia 0 ,5k event students object,namsor_api_2.0.30,LATIN,6a34b46a-81f2-4090-ac56-434f318f54df,michellia 0 ,female,0.758692982,7.771578058,0.879346491,0,Neutral
+438,rifadno,pay 5 thousand to buy fried juice hahaha,namsor_api_2.0.30,LATIN,1a6b47a3-fb6a-4aac-bd17-82a0cdd06879,rifadno,male,-0.295707707,2.465765178,0.647853853,-3,Negative
+439,pradikaangga ,"It's a hassle to get fired, huh?",namsor_api_2.0.30,LATIN,ac7995b5-6c8e-4d26-9b8c-25eac34cb14d,pradikaangga ,male,-0.122018256,1.316994316,0.561009128,0,Neutral
+440,muslihitz,I can't tell you it's really a hassle to have to park your motorbike when you're told to park it,namsor_api_2.0.30,LATIN,9adcc1e8-1c08-427b-b68c-e8f04acf8d5c,muslihitz,male,-0.0579189,0.376311764,0.52895945,-12,Negative
+441,hantoro krista,"The hassle of jukir's income is reduced drastically, let's think about the gas of progress",namsor_api_2.0.30,LATIN,47cce79b-c7a6-4d0a-b6b2-bcabf9215dd7,hantoro krista,male,-0.584883316,6.575122603,0.792441658,-7,Negative
+442,edykusumaa,old jukire,namsor_api_2.0.30,LATIN,df1c8c97-5a9c-4d4a-a313-cb33b6225f02,edykusumaa,male,-0.073544985,1.114492335,0.536772492,-4,Negative
+443,erwincaprut,hahaha,namsor_api_2.0.30,LATIN,774b5057-37f1-4d06-ac7f-64591e99934c,erwincaprut,male,-0.345427964,2.986157457,0.672713982,0,Neutral
+445,bimaekanusantara ,no comment central people's affairs,namsor_api_2.0.30,LATIN,7fee9eeb-22c3-429a-8c86-2f815e72ea67,bimaekanusantara ,male,-0.051504769,0.109366134,0.525752385,0,Neutral
+446,super tedjo,"Sorry, that's the concept of having to make a parking deposit",namsor_api_2.0.30,LATIN,77099cba-9060-4f40-bb39-2a09e2b8963c,super tedjo,male,-0.593215263,6.618798792,0.796607632,-3,Negative
+447,nunu sgt,"yes, do eparking in an orderly manner, emotionally, the jukir is given 1000, the value is 2 billion, a coin, eparking requires socialization in its use as you get used to it",namsor_api_2.0.30,LATIN,730ba1b2-cbf0-4b29-a573-61e31d123a4f,nunu sgt,female,0.354309279,3.133148305,0.677154639,8,Positive
+448,ramaakukuh,nan,namsor_api_2.0.30,LATIN,92f6f2ac-7fc6-4c8a-a123-027c4cc4bed3,ramaakukuh,male,-0.250705889,2.007933712,0.625352945,0,Neutral
+449,miyano sherry  ,his income is reduced motorbike parking on the wrong road hos cokroaminoto pays 5 thousand 2000 petrol car parking costs 3000,namsor_api_2.0.30,LATIN,8fbd2fce-690a-42eb-90bb-1f822c25e324,miyano sherry  ,female,0.068684759,0.862611001,0.534342379,-6,Negative
+450,alfanzain id,"In fact, the fraudulent broker withdrew his 2000 deposit",namsor_api_2.0.30,LATIN,8ef7adac-5b09-416d-9a40-45f52d92d9a7,alfanzain id,male,-0.068688943,0.862816271,0.534344472,0,Neutral
+451,masrur asyrofi,agree to electronic parking,namsor_api_2.0.30,LATIN,b7104849-8998-476c-a726-b151dcd6b1f6,masrur asyrofi,male,-0.844352999,8.68606403,0.9221765,2,Positive
+452,alfanzain id,"The leader's corruption, society's hobby is corruption",namsor_api_2.0.30,LATIN,ca7addce-4d88-4843-ac0d-888b6890c97d,alfanzain id,male,-0.068688943,0.862816271,0.534344472,-8,Negative
+453,mohamadaxel,good parking price is worth it,namsor_api_2.0.30,LATIN,db9e57a2-71bf-486e-96d1-825f0356a3ac,mohamadaxel,male,-0.380492438,4.247964425,0.690246219,1,Positive
+454,f  ndra,"Hey, tomorrow morning at the kindergarten event, the motorbike will be towed for 3000, it's not worth it, just smile",namsor_api_2.0.30,LATIN,5840620c-e059-43b9-ad7c-d97a2b831a8a,f  ndra,male,-0.053085451,0.174431331,0.526542726,-1,Negative
+455,chukyt,the amount of the increase in entry fees,namsor_api_2.0.30,LATIN,ad941c45-4e19-49f1-9e9c-168ae0d2c0cd,chukyt,male,-0.224996504,1.755429855,0.612498252,-3,Negative
+456,snailmucica,have you ever bought ninety nine clothes looking for it to pay for parking,namsor_api_2.0.30,LATIN,787e93d2-0264-4b03-8511-0985eee21160,snailmucica,female,0.170702197,1.504748752,0.585351099,-3,Negative
+457,ratnayas,sticky ecard,namsor_api_2.0.30,LATIN,da0585db-b56a-4256-9e00-7dbd3dbb20b4,ratnayas,male,-0.299503775,2.497540427,0.649751887,0,Neutral
+458,vickyalin  0,have complete data,namsor_api_2.0.30,LATIN,47797aaa-9881-40be-8d38-87639abc875e,vickyalin  0,female,0.054512519,0.233487594,0.527256259,-3,Negative
+459,muh     ,eating the people eating the people's representatives,namsor_api_2.0.30,LATIN,9c1ca88a-37be-4970-831f-79effc11a255,muh     ,male,-0.521492334,6.19260097,0.760746167,-8,Negative
+460,dana pradan,parking pad 71 million parking 134 million officials like hot money jukir likes eparking eparking implemented refuses to reduce income looking for naughty people,namsor_api_2.0.30,LATIN,09a8f279-383f-4a1e-a900-45ca6ede7ee1,dana pradan,female,0.395787869,4.775089941,0.697893934,-6,Negative
+461,ismaisma0 ,Night market at night pays for parking,namsor_api_2.0.30,LATIN,2358728e-4265-4993-b4c1-effe5160a1d7,ismaisma0 ,male,-0.40696329,5.00849645,0.703481645,-4,Negative
+462,windy imnida,too lazy to stop in a busy parking lot,namsor_api_2.0.30,LATIN,4008ee24-2b00-4c93-b742-99ce98d98de3,windy imnida,female,0.543262334,6.381566041,0.771631167,-5,Negative
+463,anggaraffiq,fortunately help corruption,namsor_api_2.0.30,LATIN,6f8d0b8c-f6e2-4aa5-a424-365e9a12b1e2,anggaraffiq,male,-0.293587333,2.448380533,0.646793667,-1,Negative
+464,add zim,"shoulder of the road, minimum parking, arrange the lane according to the road, provide parking facilities, money, facilities provided, parking, sell facilities, please, in line with regulations",namsor_api_2.0.30,LATIN,a835fa0f-df2e-4367-a23b-dbe4978e5b97,add zim,male,-0.661221498,7.070310639,0.830610749,-1,Negative
+465,seratan jawi,grbg surãâãâ¥ eparking event must pay attention to the road area,namsor_api_2.0.30,LATIN,952bfe0e-231f-4834-b264-d0caab218c6b,seratan jawi,male,-0.210798899,1.678161869,0.605399449,2,Positive
+466,darmawanathan  ,then tax facilities were improved,namsor_api_2.0.30,LATIN,eedd0754-a1d3-41d0-9fbf-b9ea3ccecfde,darmawanathan  ,male,-0.365171996,3.34493617,0.682585998,-2,Negative
+467,mrizalrotim  ,please park attendant intend to park,namsor_api_2.0.30,LATIN,05865b85-99b5-4183-bafb-d8f4494cfe4a,mrizalrotim  ,male,-0.243097736,1.928183435,0.621548868,0,Neutral
+468,itsmeolv ,agree that the judge's shoplifting money guarantees mandatory roadside parking,namsor_api_2.0.30,LATIN,0c2a97d9-f982-48d3-b3f3-a7d2d272f20e,itsmeolv ,male,-0.28538144,2.383392836,0.64269072,-9,Negative
+469,itsmeolv ,refused to be ordered to stop jukir,namsor_api_2.0.30,LATIN,41d1d816-238b-4471-99bf-937015443173,itsmeolv ,male,-0.28538144,2.383392836,0.64269072,-6,Negative
+470,karleshaaa  ,please give me 3 billion 5 billion wow,namsor_api_2.0.30,LATIN,4028a626-c3be-4301-8803-2d3e32d28609,karleshaaa  ,female,0.0495506,0.029230927,0.5247753,2,Positive
+471,ismaisma0 ,hahaha,namsor_api_2.0.30,LATIN,d3d007a3-7dc8-4819-8b67-59671a9918f6,ismaisma0 ,male,-0.40696329,5.00849645,0.703481645,0,Neutral
+472,dianhadinurrohim,Joss so you don't park illegally,namsor_api_2.0.30,LATIN,58699274-4d00-4d6d-adac-32af5912dead,dianhadinurrohim,male,-0.343047285,2.949873387,0.671523642,-1,Negative
+473,denispariwara,I agree bro,namsor_api_2.0.30,LATIN,1e007598-1537-40e6-b82d-dbdaf89938ce,denispariwara,female,0.061249687,0.519728954,0.530624843,1,Positive
+474,denispariwara,"Competent, smart driver, brother, check",namsor_api_2.0.30,LATIN,993649b5-4891-4083-b3f2-b351be04ac0f,denispariwara,female,0.061249687,0.519728954,0.530624843,0,Neutral
+475,tatan t,"Yes, the main thing is that it requires complicated education, the main thing is that the system is easy to run",namsor_api_2.0.30,LATIN,53f6e85a-d2cb-4380-9e2a-e44f4a6fe4f2,tatan t,male,-0.512525378,6.122137545,0.756262689,-12,Negative
+476,mrshl gngsrsputra,ebes melbu igmalumalu,namsor_api_2.0.30,LATIN,c7881b99-21df-44bd-bda1-36d65226491f,mrshl gngsrsputra,male,-0.152732997,1.432921832,0.576366499,0,Neutral
+477,black sheep id,yes 13471 difference,namsor_api_2.0.30,LATIN,3e89810c-2972-4996-bfd1-d19c9885d218,black sheep id,male,-0.4236345,5.293868403,0.71181725,4,Positive
+478,aheunaegawijaya,it's hard ma'am,namsor_api_2.0.30,LATIN,c299ab83-231a-4555-9722-71470682eac7,aheunaegawijaya,male,-0.06027306,0.477195948,0.53013653,-3,Negative
+479,regytaaprylia,"be patient, ma'am, it's answered",namsor_api_2.0.30,LATIN,61ce6f0b-5c2a-4cc5-85fe-fbd9abacc500,regytaaprylia,female,0.07077813,0.967586403,0.535389065,9,Positive
+480,op bensin,the quota is complicated,namsor_api_2.0.30,LATIN,90d1b1b0-a895-42ef-8dc5-c2e6349220f7,op bensin,male,-0.69327593,7.253720066,0.846637965,-4,Negative
+481, lookatmoo,"corrupt practices, the difference is 63 million",namsor_api_2.0.30,LATIN,66c6cb27-e337-44dc-9489-44d33e7e98fc, lookatmoo,male,-0.056064206,0.298167893,0.528032103,-6,Negative
+482,anggara   ,continue eparking,namsor_api_2.0.30,LATIN,da915bd8-1035-4254-a337-f6927b72d785,anggara   ,male,-0.380983638,4.309901254,0.690491819,1,Positive
+483,sutokoima,5000 withdrawn Moborobo car parking,namsor_api_2.0.30,LATIN,754f02e1-3811-4b83-99d0-f147073d5565,sutokoima,female,0.100178403,1.239071145,0.550089201,2,Positive
+484,wijaya heng,rubicon,namsor_api_2.0.30,LATIN,477e0580-f5a2-4cd6-82bc-4e21f58aabe9,wijaya heng,male,-0.434359662,5.485763004,0.717179831,0,Neutral
+485,Zumaro Qoirul,"yes, the spirit of change",namsor_api_2.0.30,LATIN,e50ad1e8-27f6-44f4-b64f-561e253bf82f,Zumaro Qoirul,male,-0.259792665,2.110030337,0.629896332,11,Positive
+486,Hendro Setyawan,"try the full Etoll model, easy top up balance jujul ha ha btw pay sopipaygopay",namsor_api_2.0.30,LATIN,a3031e70-f8f5-4553-a999-8b06ee225917,Hendro Setyawan,male,-0.877951072,9.17067281,0.938975536,9,Positive
+487,Putra Reog,training,namsor_api_2.0.30,LATIN,c810ddf2-ae75-429a-ab2b-f277359662fd,Putra Reog,male,-0.373015544,3.592048218,0.686507772,0,Neutral
+488,Fadillah,used to needing,namsor_api_2.0.30,LATIN,1c6ca5e1-f9b4-4fa5-9ec2-9bedda868c14,Fadillah,male,-0.379757043,4.161690027,0.689878522,-2,Negative
+489,Ariz Tiany,used to being complicated,namsor_api_2.0.30,LATIN,b7df5580-971d-47b5-970f-ad335dd8d25b,Ariz Tiany,female,0.066336542,0.74993458,0.533168271,-2,Negative
+490,Saidhan Efendi,complicated get used to the pieces old confusing,namsor_api_2.0.30,LATIN,b625e7af-782b-4835-bf47-73adb158bcd0,Saidhan Efendi,male,-0.307846393,2.57054258,0.653923196,-6,Negative
+491,Indra W P,continue,namsor_api_2.0.30,LATIN,1a36b14b-0ba2-447d-a06d-6b438d2eff47,Indra W P,female,0.380823156,4.289252455,0.690411578,0,Neutral
+492,Aji Ji,"demand salaries for Ponorogo's umk, supply of soup, pay attention to umk's salaries according to the sop",namsor_api_2.0.30,LATIN,b71a3059-5f81-4c1f-999a-6b01dff9b7b9,Aji Ji,male,-0.271200964,2.251024051,0.635600482,-3,Negative
+493,Entop Tawon,"parking attendant training, queuing at the gas station, relaxing parking customers, 7 people in a hurry",namsor_api_2.0.30,LATIN,dbfb661c-5990-4b66-a7e5-cc9979bcd228,Entop Tawon,male,-0.336281641,2.86109327,0.668140821,7,Positive
+494,Advan Putra,just teaching the electronic parking device to teach you how to park your vehicle,namsor_api_2.0.30,LATIN,b095725e-0aff-4481-bcc9-05c99ecb9387,Advan Putra,male,-0.917038478,10.41248995,0.958519239,2,Positive
+495,Indrayani Crochet,online parking test,namsor_api_2.0.30,LATIN,9af6c6f6-e2fe-48da-8463-ee4d98e8fbbb,Indrayani Crochet,female,0.398651435,4.829978957,0.699325717,1,Positive
+496,Jalu Rayhandra,agree to reject it,namsor_api_2.0.30,LATIN,20c2c0b9-1317-4f77-a900-6483b3ec4eb3,Jalu Rayhandra,male,-0.379464458,4.129276423,0.689732229,1,Positive
+497,Danang TW,"The point is to increase regional income, reduce, eliminate leaks, OK, OK, community proposals will increase",namsor_api_2.0.30,LATIN,bd07f6ec-505c-4e0f-97af-9e07e7dd36fb,Danang TW,female,0.055922415,0.292233743,0.527961208,2,Positive
+498,Dony S,a foreigner drives a car,namsor_api_2.0.30,LATIN,092140b1-13b9-42b6-8f1d-ce0ce016605f,Dony S,male,-0.374740707,3.710946622,0.687370354,1,Positive
+499,Sighit Krestiyawan,It's just electronic so it doesn't disappear when you park when you pay,namsor_api_2.0.30,LATIN,08e55a91-ed9b-426c-8dd2-812763e9c01e,Sighit Krestiyawan,male,-0.155264289,1.442847533,0.577632145,8,Positive
+500,Zumaro Qoirul,"yes, the spirit of change",namsor_api_2.0.30,LATIN,b7742b08-be33-4a25-9aec-270aad2d0d8c,Zumaro Qoirul,male,-0.259792665,2.110030337,0.629896332,11,Positive
+501,Ariz Tiany,used to being complicated,namsor_api_2.0.30,LATIN,0f3c8075-e502-458f-8daa-797cf1e01a15,Ariz Tiany,female,0.066336542,0.74993458,0.533168271,-2,Negative
+502,Hendro Setyawan,"try the full Etoll model, easy top up balance jujul ha ha btw pay sopipaygopay",namsor_api_2.0.30,LATIN,1c8b1a8b-5150-4962-b2d9-afdc298da097,Hendro Setyawan,male,-0.877951072,9.17067281,0.938975536,9,Positive
+503,Saidhan Efendi,complicated used to confusing old jukir,namsor_api_2.0.30,LATIN,18b7b6d1-a052-4e83-b94c-40440adc8300,Saidhan Efendi,male,-0.307846393,2.57054258,0.653923196,-6,Negative
+504,Indra W P,continue,namsor_api_2.0.30,LATIN,f784f884-134f-49eb-b715-fc3d36fc529a,Indra W P,female,0.380823156,4.289252455,0.690411578,0,Neutral
+505,Putra Reog,training,namsor_api_2.0.30,LATIN,6b1014dd-914f-464d-94b6-9e4beeff4ab9,Putra Reog,male,-0.373015544,3.592048218,0.686507772,0,Neutral
+506,Fadillah,used to needing,namsor_api_2.0.30,LATIN,322ccf45-7cb8-4000-81f3-63e94bf1784f,Fadillah,male,-0.379757043,4.161690027,0.689878522,-2,Negative
+507, nanangnanang    ,Digital parking officers agree to reduce illegal parking based on 2024 regulations,namsor_api_2.0.30,LATIN,7b23d9ae-e326-41a3-abf9-47854cd83aa9, nanangnanang    ,female,0.058087564,0.383471267,0.529043782,-4,Negative
+508, rggaming    ,Ponorogo's parking attendant entered the parking attendant's shop,namsor_api_2.0.30,LATIN,79f5abc9-4b4b-4045-9fcc-7047b6d8382f, rggaming    ,female,0.049103646,0.010924982,0.524551823,-5,Negative
+509, rggaming    ,Ponorogo's parking attendant entered the parking attendant's shop,namsor_api_2.0.30,LATIN,56ef3bb4-0612-4cb1-993a-3f32e95c6157, rggaming    ,female,0.049103646,0.010924982,0.524551823,-5,Negative
+510, user nk zu no y,"Using a parking ticket to subscribe to the sticker refuses electronic parking, which is really your grandfather's way",namsor_api_2.0.30,LATIN,a75a9311-bca9-434b-9f6c-bf95718a3c30, user nk zu no y,male,-0.069705949,0.913231607,0.534852975,-3,Negative
+511, dickykrisnanda    ,"sleeping, not parking, lazy about salary",namsor_api_2.0.30,LATIN,ce1bb4e8-d563-4f28-8f2e-4891ea012415, dickykrisnanda    ,female,0.056992926,0.337170209,0.528496463,-4,Negative
+512, zvq    ,"breakthrough, thank God, city of brilliant ideas, living in the wrong city, parking lots on every inch of the land, even if it's trivial to buy, the money is reduced, you have to pay for honest parking. â¹pay the government for lost motorbikes, replace them with parking money, personal interests, parking control, buying and selling, hundreds of millions of billions, get rid of manual parking attendants, replace eparking, the money will increase the BLT of the poor, hoe, sickle, blessing, parking, community problems, manual parking, helping the community, leads to bullying",namsor_api_2.0.30,LATIN,ddf2f6ba-02af-4ca4-87a3-cc3d05fbfb4b, zvq    ,female,0.071334441,0.996316606,0.535667221,-8,Negative
+513, smartstudent    ,"roadside parking is very difficult, it's really complicated, it's better to repair the parking area so that the entrance and exit are easy to do, the stage for cooking noodles, boil water, immediately add the muddy noodles",namsor_api_2.0.30,LATIN,95ee936a-c1d9-4886-a1f8-e35e641867cc, smartstudent    ,female,0.054723285,0.24224171,0.527361642,-17,Negative
+514, arifinsiregar 0 ,prevent eparking corruption,namsor_api_2.0.30,LATIN,355a2098-fb6b-47d8-af57-30bdf9914c0d, arifinsiregar 0 ,male,-0.073110631,1.090727476,0.536555315,-10,Negative
+515, indonesiahebat    ,hopefully it will pay off in a big way,namsor_api_2.0.30,LATIN,61d97587-6e89-48ef-a5db-a63b22478248, indonesiahebat    ,male,-0.056869962,0.331992231,0.528434981,0,Neutral
+516, jakabaring   ,"illegal parking in wetlands, lazy people",namsor_api_2.0.30,LATIN,06bd8549-089a-4839-9190-d400ed7bb9a2, jakabaring   ,female,0.048933837,0.003970744,0.524466918,-3,Negative
+517, robbycandra    ,complicated,namsor_api_2.0.30,LATIN,b0716811-75ed-473d-a318-e554e411f62d, robbycandra    ,female,0.054026964,0.213353478,0.527013482,-4,Negative
+518, andrisetiawan 0  ,"Thank God, I hope Alfa Indomaret parking",namsor_api_2.0.30,LATIN,ef32a986-43fd-4d21-b587-b7c019c59abf, andrisetiawan 0  ,male,-0.07056528,0.956691836,0.53528264,6,Positive
+519, adolfbastian   ,The complicated reason for taking official parking ticket money is that Kang Palak continues electronic parking,namsor_api_2.0.30,LATIN,57a9b05a-482d-4556-abf7-6586dc11d2a4, adolfbastian   ,female,0.048924999,0.003608831,0.5244625,5,Positive
+520, cowayofficial,"simple roads are built by the government, whatever activities belong to the government, they are honest and transparent",namsor_api_2.0.30,LATIN,5c6f4665-77b7-4e35-bb26-032ee257e60e, cowayofficial,male,-0.05084952,0.082469756,0.52542476,8,Positive
+521, ariusbudiman  0 ,Parking attendant is one of the useful jobs,namsor_api_2.0.30,LATIN,5de20f8a-6c66-49ef-ba5f-7df3928be67a, ariusbudiman  0 ,male,-0.060349081,0.480491097,0.53017454,5,Positive
+522, bekicot  ,complicated to get into your pocket,namsor_api_2.0.30,LATIN,e123ac61-9ba0-4fdb-9d85-a697761521f4, bekicot  ,male,-0.064577211,0.668432707,0.532288605,-7,Negative
+523, satreaaji,"It's not complicated, it doesn't fit in your pocket, you're asked to give me a parking ticket, where to park",namsor_api_2.0.30,LATIN,011f6b83-039f-4dc3-b9c9-d2807bb84eff, satreaaji,male,-0.057613034,0.363352511,0.528806517,-7,Negative
+524, sanquotes    ,complicated reduced income,namsor_api_2.0.30,LATIN,7e0cb073-e05e-4377-a569-b5c7d5f11624, sanquotes    ,male,-0.057169051,0.344594582,0.528584526,-9,Negative
+525, blackbeard    ,"It's complicated to adapt, saying that the jukir is a hassle for black money. Electronic parking is implemented by the dead country's jukir",namsor_api_2.0.30,LATIN,3d5d3941-33e1-4179-8d48-7940bc9f8a7b, blackbeard    ,male,-0.059155229,0.429025687,0.529577615,-9,Negative
+526, genibumi,"Yes, Ponorogo, Reog city, is a famous area for the land of balloons",namsor_api_2.0.30,LATIN,8c583c51-390c-4e87-95b4-ca50c906be72, genibumi,male,-0.055006467,0.254018233,0.527503234,8,Positive
+527, adolfbastian   ,Regional government offices are supervised by regional revenues prone to corruption,namsor_api_2.0.30,LATIN,a368ab3a-7ca2-4ce7-9a43-b1729fb62e1d, adolfbastian   ,female,0.048924999,0.003608831,0.5244625,-10,Negative
+528, indonesiahebat    ,Hopefully paid application managers are confused about budgeted victims,namsor_api_2.0.30,LATIN,dc169a50-4689-4794-9bac-6bd8fc6e365f, indonesiahebat    ,male,-0.056869962,0.331992231,0.528434981,-11,Negative
+529, adityapratama    ,the main idea is good the device is efficient,namsor_api_2.0.30,LATIN,367c394c-ef62-49e9-837e-847489fc7d9d, adityapratama    ,female,0.061592779,0.534778881,0.530796389,2,Positive
+530, suhartopwr   0,parking is complicated using an electronic system to eradicate corruption 2 motorbike parking minimum 2000 cars 50000 and below,namsor_api_2.0.30,LATIN,5e73cf92-e4d7-4670-9bc3-52796c527c2f, suhartopwr   0,female,0.052998886,0.170859752,0.526499443,-13,Negative
+531, ahmadmuthi   ,reason,namsor_api_2.0.30,LATIN,3f62f54a-7431-47c7-9cd0-f07b4c6f4f6f, ahmadmuthi   ,male,-0.059722052,0.453386971,0.529861026,0,Neutral
+532, unboxingapapun    ,advanced humans adapt,namsor_api_2.0.30,LATIN,f665e5c8-a2ee-4591-911d-9f97267fe672, unboxingapapun    ,male,-0.054639346,0.238754229,0.527319673,3,Positive
+533, afendibekicot    ,complicated,namsor_api_2.0.30,LATIN,1b5d5f60-8430-4325-a5f1-1f9c4692a3c9, afendibekicot    ,male,-0.055882516,0.29056485,0.527941258,-4,Negative
+534, Reni qm ol,supports your parking electronic parking,namsor_api_2.0.30,LATIN,cadcf06e-b37c-485e-ab54-713651d0a1de, Reni qm ol,female,0.349213941,3.046430846,0.674606971,2,Positive
+535, user nk zu no y,meaning efficient weight easy life,namsor_api_2.0.30,LATIN,56862ffe-3683-42fc-8a99-53533dc4a5dd, user nk zu no y,male,-0.069705949,0.913231607,0.534852975,9,Positive
+536, adityapratama    ,ãâ usernk8zu2no5y ever mall parking system,namsor_api_2.0.30,LATIN,57d0f30b-dfa6-4e98-90a4-c4e54488eae6, adityapratama    ,female,0.061592779,0.534778881,0.530796389,-3,Negative
+537, Chank fanaya,"Confused about the operation, not smart people, people who understand letters, people who read",namsor_api_2.0.30,LATIN,5d758ab7-2ffd-4928-b313-283dd949e801, Chank fanaya,male,-0.293176751,2.445043424,0.646588376,4,Positive
+538, Nastar   ,it's called old people try young people quickly,namsor_api_2.0.30,LATIN,66e21925-8906-4433-a2d1-a8891c445ce0, Nastar   ,male,-0.059724213,0.453480063,0.529862106,-8,Negative
