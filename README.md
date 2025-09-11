@@ -45,3 +45,14 @@
 <img width="643" height="302" alt="image" src="https://github.com/user-attachments/assets/16a20c39-8788-47a5-b5b0-def5dbcaad6c" />
 
 <img width="647" height="306" alt="image" src="https://github.com/user-attachments/assets/922469ca-3854-4b0b-830c-3159c7acbc8a" />
+
+# OTHER TECHNICHAL INFORMATION
+
+Data Labelling From 
+Kamus Bahasa Alay : https://github.com/nasalsabila/kamus-alay/blob/master/colloquial-indonesian-lexicon.csv
+
+Kamus Sentimen negatif teks bahasa indonesia : https://github.com/onpilot/sentimen-bahasa/blob/master/leksikon/inset/_json_inset-neg.txt
+
+Kamus Sentimen positif teks bahasa indonesia : https://github.com/onpilot/sentimen-bahasa/blob/master/leksikon/inset/_json_inset-pos.txt
+
+Kamus Stopword Bahasa Indonesia : https://github.com/masdevid/ID-Stopwords/blob/master/id.stopwords.02.01.2016.txt
